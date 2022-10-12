@@ -1,6 +1,6 @@
 import { BigNumber as EthersBigNumber } from '@ethersproject/bignumber'
 import { parseUnits } from '@ethersproject/units'
-import { SerializedFarmPublicData } from '@pancakeswap/farms'
+import { SerializedFarmPublicData } from '@unitedfarmers/farms'
 import { Token } from '@pancakeswap/sdk'
 import BigNumber from 'bignumber.js'
 import {

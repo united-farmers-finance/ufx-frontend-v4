@@ -1,6 +1,6 @@
 import { Obj } from 'itty-router'
 import { error } from 'itty-router-extras'
-import { createFarmFetcher } from '@pancakeswap/farms'
+import { createFarmFetcher } from '@unitedfarmers/farms'
 import { createMulticall } from '@pancakeswap/multicall'
 import { bscProvider, bscTestnetProvider, goerliProvider } from './provider'
 

@@ -7,7 +7,7 @@ import { useTokenBalancesWithLoadingIndicator } from 'state/wallet/hooks'
 import { createContext, useMemo } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useSWRImmutable from 'swr/immutable'
-import { getStableConfig } from '@pancakeswap/farms/constants'
+import { getStableConfig } from '@unitedfarmers/farms/constants'
 import { deserializeToken } from '@pancakeswap/tokens'
 
 export function useStableFarms() {

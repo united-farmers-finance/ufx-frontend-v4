@@ -1,6 +1,6 @@
 import { createContext, useCallback, useEffect, useState } from 'react'
 import { Language } from '@pancakeswap/uikit'
-import { useLastUpdated } from '@pancakeswap/hooks'
+import { useLastUpdated } from '@unitedfarmers/hooks'
 import memoize from 'lodash/memoize'
 import omitBy from 'lodash/omitBy'
 import reduce from 'lodash/reduce'

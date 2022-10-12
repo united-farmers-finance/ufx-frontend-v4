@@ -5,7 +5,7 @@ import BigNumber from 'bignumber.js'
 import { gql, GraphQLClient } from 'graphql-request'
 import getUnixTime from 'date-fns/getUnixTime'
 import sub from 'date-fns/sub'
-import { AprMap } from '@pancakeswap/farms'
+import { AprMap } from '@unitedfarmers/farms'
 
 interface BlockResponse {
   blocks: {

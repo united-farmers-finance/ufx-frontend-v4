@@ -17,7 +17,7 @@ const customJestConfig = {
     '^@pancakeswap/ui': '<rootDir>/packages/ui',
     '^@pancakeswap/sdk': '<rootDir>/packages/swap-sdk/src',
     '^@pancakeswap/localization': ['<rootDir>/packages/localization/src'],
-    '^@pancakeswap/hooks': ['<rootDir>/packages/hooks/src'],
+    '^@unitedfarmers/hooks': ['<rootDir>/packages/hooks/src'],
     '^@pancakeswap/wagmi/chains': ['<rootDir>/packages/wagmi/chains'],
     '^@pancakeswap/wagmi/connectors/miniProgram': ['<rootDir>/packages/wagmi/connectors/miniProgram'],
     '^@pancakeswap/wagmi/connectors/binanceWallet': ['<rootDir>/packages/wagmi/connectors/binanceWallet'],

@@ -1,5 +1,5 @@
-import farms56 from '@pancakeswap/farms/constants/56'
-import farms1 from '@pancakeswap/farms/constants/1'
+import farms56 from '@unitedfarmers/farms/constants/56'
+import farms1 from '@unitedfarmers/farms/constants/1'
 import { Native } from '@pancakeswap/sdk'
 import { SerializedFarm } from 'state/types'
 import { getLpContract } from 'utils/contractHelpers'

@@ -1,4 +1,4 @@
-import { useInterval, useIsWindowVisible } from '@pancakeswap/hooks'
+import { useInterval, useIsWindowVisible } from '@unitedfarmers/hooks'
 import { useFetchListCallback } from '@pancakeswap/token-lists'
 import { acceptListUpdate, updateListVersion } from '@pancakeswap/token-lists/src/actions'
 import { getVersionUpgrade, VersionUpgrade } from '@uniswap/token-lists'

@@ -1,7 +1,7 @@
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useRouter, NextRouter } from 'next/router'
 import { useEffect } from 'react'
-import { usePreviousValue } from '@pancakeswap/hooks'
+import { usePreviousValue } from '@unitedfarmers/hooks'
 import { EXCHANGE_PAGE_PATHS } from 'config/constants/exchange'
 import { isChainSupported } from 'utils/wagmi'
 import { useProvider } from 'wagmi'

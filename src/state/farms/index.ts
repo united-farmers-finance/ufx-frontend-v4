@@ -1,5 +1,5 @@
-import { getFarmConfig } from '@pancakeswap/farms/constants'
-import { createFarmFetcher } from '@pancakeswap/farms'
+import { getFarmConfig } from '@unitedfarmers/farms/constants'
+import { createFarmFetcher } from '@unitedfarmers/farms'
 import { ChainId } from '@pancakeswap/sdk'
 import { createAsyncThunk, createSlice, isAnyOf } from '@reduxjs/toolkit'
 import type {
