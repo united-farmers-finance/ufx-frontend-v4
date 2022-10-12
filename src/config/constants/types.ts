@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js'
-import { Token, ChainId } from '@pancakeswap/sdk'
-import { SerializedWrappedToken } from '@pancakeswap/tokens'
+import { Token, ChainId } from '@unitedfarmers/sdk'
+import { SerializedWrappedToken } from '@unitedfarmers/tokens'
 import type { SerializedFarmConfig, FarmConfigBaseProps } from '@unitedfarmers/farms'
 
 // a list of tokens by chain

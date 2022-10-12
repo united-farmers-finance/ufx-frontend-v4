@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { Button, Heading, Text, Flex, Link, Breadcrumbs } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Button, Heading, Text, Flex, Link, Breadcrumbs } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useTranslation } from '@unitedfarmers/localization'
 import { PageMeta } from 'components/Layout/Page'
 import PageHeader from 'components/PageHeader'

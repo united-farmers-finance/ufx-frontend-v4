@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import styled, { DefaultTheme } from 'styled-components'
 import { BigNumber } from '@ethersproject/bignumber'
-import { Box, Flex, FlexProps, Skeleton, Text } from '@pancakeswap/uikit'
+import { Box, Flex, FlexProps, Skeleton, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { BetPosition, NodeRound, Round } from 'state/types'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'

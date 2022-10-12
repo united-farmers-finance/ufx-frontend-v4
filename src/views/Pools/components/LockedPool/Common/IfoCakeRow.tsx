@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, TooltipText, useTooltip, Box, Link } from '@pancakeswap/uikit'
+import { Flex, Text, TooltipText, useTooltip, Box, Link } from '@unitedfarmers/uikit'
 
 import { BalanceWithLoading } from 'components/Balance'
 import { useTranslation } from '@unitedfarmers/localization'

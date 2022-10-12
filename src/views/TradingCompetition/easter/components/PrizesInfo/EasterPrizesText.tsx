@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import Image from 'next/image'
-import { Flex, Text, Heading } from '@pancakeswap/uikit'
+import { Flex, Text, Heading } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import EasterFlipperBunny from '../../../pngs/easter-flippers.png'
 

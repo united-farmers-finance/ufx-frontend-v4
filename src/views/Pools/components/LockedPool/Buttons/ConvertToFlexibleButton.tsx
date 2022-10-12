@@ -1,8 +1,8 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, ButtonProps, useToast } from '@pancakeswap/uikit'
+import { Button, ButtonProps, useToast } from '@unitedfarmers/uikit'
 import { memo, useCallback } from 'react'
 
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { vaultPoolConfig } from 'config/constants/pools'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'

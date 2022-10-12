@@ -1,4 +1,4 @@
-import { Percent } from '@pancakeswap/sdk'
+import { Percent } from '@unitedfarmers/sdk'
 import { TranslateFunction } from '@unitedfarmers/localization'
 
 export enum PercentageDirection {

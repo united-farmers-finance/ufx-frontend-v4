@@ -1,4 +1,4 @@
-import { Card, CardBody, Heading, PrizeIcon } from '@pancakeswap/uikit'
+import { Card, CardBody, Heading, PrizeIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import IconStatBox from 'views/Teams/components/IconStatBox'
 import { Achievement } from 'state/types'

@@ -10,13 +10,13 @@ import {
   Modal,
   Text,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useEffect, useMemo, useRef } from 'react'
 import styled from 'styled-components'
 import { getBalanceNumber } from 'utils/formatBalance'
 
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import AnimatedArrow from './AnimatedArrow'
 import RoiCalculatorFooter from './RoiCalculatorFooter'
 import RoiCard from './RoiCard'

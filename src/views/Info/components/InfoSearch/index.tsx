@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Flex, Input, Skeleton, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Flex, Input, Skeleton, Text, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { MINIMUM_SEARCH_CHARACTERS } from 'config/constants/info'
 import useDebounce from 'hooks/useDebounce'
 import orderBy from 'lodash/orderBy'

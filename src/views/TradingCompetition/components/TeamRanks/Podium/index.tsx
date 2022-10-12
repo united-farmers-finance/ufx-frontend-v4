@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
-import { Flex, Box, Text, Skeleton } from '@pancakeswap/uikit'
+import { Flex, Box, Text, Skeleton } from '@unitedfarmers/uikit'
 import TeamPodiumIcon from './TeamPodiumIcon'
 import { PodiumBase } from '../../../svgs'
 import { localiseTradingVolume } from '../../../helpers'

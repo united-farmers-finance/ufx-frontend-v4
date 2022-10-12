@@ -1,5 +1,5 @@
-import { Flex, Text } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Flex, Text } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { useVaultPoolByKey } from 'state/pools/hooks'

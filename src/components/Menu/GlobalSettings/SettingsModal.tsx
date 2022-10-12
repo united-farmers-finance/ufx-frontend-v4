@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react'
 import styled from 'styled-components'
-import { Text, PancakeToggle, Toggle, Flex, Modal, InjectedModalProps, ThemeSwitcher, Box } from '@pancakeswap/uikit'
+import { Text, PancakeToggle, Toggle, Flex, Modal, InjectedModalProps, ThemeSwitcher, Box } from '@unitedfarmers/uikit'
 import {
   useAudioModeManager,
   useExpertModeManager,

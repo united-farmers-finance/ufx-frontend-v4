@@ -10,8 +10,8 @@ import {
   Text,
   useTooltip,
   WaitIcon,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import styled from 'styled-components'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { Bet, PredictionStatus } from 'state/types'

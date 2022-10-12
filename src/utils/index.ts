@@ -4,10 +4,10 @@ import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
 import { Contract } from '@ethersproject/contracts'
 import type { Provider } from '@ethersproject/providers'
-import { ChainId, Currency } from '@pancakeswap/sdk'
-import { bsc } from '@pancakeswap/wagmi/chains'
+import { ChainId, Currency } from '@unitedfarmers/sdk'
+import { bsc } from '@unitedfarmers/wagmi/chains'
 import memoize from 'lodash/memoize'
-import { TokenAddressMap } from '@pancakeswap/tokens'
+import { TokenAddressMap } from '@unitedfarmers/tokens'
 import { chains } from './wagmi'
 
 // returns the checksummed address if the address is valid, otherwise returns false

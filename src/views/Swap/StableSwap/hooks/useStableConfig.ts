@@ -2,13 +2,13 @@ import { useContract } from 'hooks/useContract'
 import stableSwapABI from 'config/abi/stableSwap.json'
 import stableSwapInfoABI from 'config/abi/infoStableSwap.json'
 import stableLPABI from 'config/abi/stableLP.json'
-import { Currency, CurrencyAmount, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Token } from '@unitedfarmers/sdk'
 import { useTokenBalancesWithLoadingIndicator } from 'state/wallet/hooks'
 import { createContext, useMemo } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useSWRImmutable from 'swr/immutable'
 import { getStableConfig } from '@unitedfarmers/farms/constants'
-import { deserializeToken } from '@pancakeswap/tokens'
+import { deserializeToken } from '@unitedfarmers/tokens'
 
 export function useStableFarms() {
   const { chainId } = useActiveWeb3React()

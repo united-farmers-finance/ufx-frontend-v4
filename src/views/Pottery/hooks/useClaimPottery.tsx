@@ -1,11 +1,11 @@
 import { useCallback } from 'react'
 import { useAppDispatch } from 'state'
 import { useTranslation } from '@unitedfarmers/localization'
-import { useToast } from '@pancakeswap/uikit'
+import { useToast } from '@unitedfarmers/uikit'
 import useCatchTxError from 'hooks/useCatchTxError'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { usePotterytDrawContract } from 'hooks/useContract'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { fetchPotteryUserDataAsync } from 'state/pottery'
 
 export const useClaimPottery = () => {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import styled from 'styled-components'
 import {
   ModalContainer,
@@ -12,7 +12,7 @@ import {
   ModalCloseButton,
   Button,
   AutoRenewIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { getAllV1History } from './helpers'
 

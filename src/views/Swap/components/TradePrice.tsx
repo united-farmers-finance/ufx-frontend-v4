@@ -1,5 +1,5 @@
-import { Price, Currency } from '@pancakeswap/sdk'
-import { Text, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Price, Currency } from '@unitedfarmers/sdk'
+import { Text, AutoRenewIcon } from '@unitedfarmers/uikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

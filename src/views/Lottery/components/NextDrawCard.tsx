@@ -13,8 +13,8 @@ import {
   Box,
   CardFooter,
   ExpandableLabel,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { LotteryStatus } from 'config/constants/types'
 import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'

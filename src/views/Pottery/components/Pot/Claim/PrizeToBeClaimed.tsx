@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { DeserializedPotteryUserData } from 'state/types'
 import { usePriceCakeBusd } from 'state/farms/hooks'

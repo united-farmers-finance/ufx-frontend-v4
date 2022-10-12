@@ -17,9 +17,9 @@ import {
   LogoRoundIcon,
   Skeleton,
   Link,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { NextLinkFromReactRouter as RouterLink } from 'components/NextLink'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 
 import { useTranslation } from '@unitedfarmers/localization'
 import useTokenBalance from 'hooks/useTokenBalance'

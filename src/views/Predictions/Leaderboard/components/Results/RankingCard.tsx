@@ -12,12 +12,12 @@ import {
   SubMenu,
   SubMenuItem,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { PredictionUser } from 'state/types'
 import { useProfileForAddress } from 'state/profile/hooks'
 import styled from 'styled-components'
 import { getBlockExploreLink } from 'utils'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useStatModalProps } from 'state/predictions/hooks'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'

@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Box, Button, Card, CardBody, Flex, Step, Stepper, Text } from '@pancakeswap/uikit'
+import { Box, Button, Card, CardBody, Flex, Step, Stepper, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { StyledWaveContainer, LandingBodyWrapper } from 'views/PancakeSquad/styles'
 import useTheme from 'hooks/useTheme'

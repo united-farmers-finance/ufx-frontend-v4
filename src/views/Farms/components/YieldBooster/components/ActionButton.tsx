@@ -9,7 +9,7 @@ import {
   useTooltip,
   LinkExternal,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import _isEmpty from 'lodash/isEmpty'
 import { ReactNode } from 'react'
 import styled from 'styled-components'

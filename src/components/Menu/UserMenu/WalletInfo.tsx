@@ -1,5 +1,5 @@
-import { Box, Button, Flex, InjectedModalProps, LinkExternal, Message, Skeleton, Text } from '@pancakeswap/uikit'
-import { ChainId } from '@pancakeswap/sdk'
+import { Box, Button, Flex, InjectedModalProps, LinkExternal, Message, Skeleton, Text } from '@unitedfarmers/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
 import { FetchStatus } from 'config/constants/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@unitedfarmers/localization'

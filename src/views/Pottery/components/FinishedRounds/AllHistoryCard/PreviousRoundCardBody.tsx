@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import { useMemo } from 'react'
 import styled from 'styled-components'
-import { Box, Flex, Text, CardBody, CardRibbon, LinkExternal, Skeleton } from '@pancakeswap/uikit'
+import { Box, Flex, Text, CardBody, CardRibbon, LinkExternal, Skeleton } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from 'utils/formatBalance'
 import Balance from 'components/Balance'

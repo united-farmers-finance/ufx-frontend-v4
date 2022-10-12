@@ -1,6 +1,6 @@
-import { Flex, UserMenuItem, WarningIcon } from '@pancakeswap/uikit'
+import { Flex, UserMenuItem, WarningIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useBalance } from 'wagmi'
 import { LOW_BNB_BALANCE } from './WalletModal'
 

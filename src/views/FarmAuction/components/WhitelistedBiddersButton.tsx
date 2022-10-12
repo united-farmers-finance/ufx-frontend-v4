@@ -1,4 +1,4 @@
-import { useModal, Button, Skeleton } from '@pancakeswap/uikit'
+import { useModal, Button, Skeleton } from '@unitedfarmers/uikit'
 import WhitelistedBiddersModal from './WhitelistedBiddersModal'
 import useWhitelistedAddresses from '../hooks/useWhitelistedAddresses'
 

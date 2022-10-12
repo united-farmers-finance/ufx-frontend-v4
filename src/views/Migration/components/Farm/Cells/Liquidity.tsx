@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, HelpIcon, Text, useTooltip } from '@pancakeswap/uikit'
+import { Flex, HelpIcon, Text, useTooltip } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import BigNumber from 'bignumber.js'
 

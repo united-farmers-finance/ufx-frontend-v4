@@ -1,6 +1,6 @@
 import { usePreloadImages } from '@unitedfarmers/hooks'
 import { useTranslation } from '@unitedfarmers/localization'
-import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
+import { AtomBox } from '@unitedfarmers/ui/components/AtomBox'
 import {
   Button,
   Heading,
@@ -15,7 +15,7 @@ import {
   TabMenu,
   Text,
   WarningIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import clsx from 'clsx'
 import { atom, useAtom } from 'jotai'
 import { FC, lazy, PropsWithChildren, Suspense, useMemo, useState } from 'react'

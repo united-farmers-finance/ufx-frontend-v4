@@ -1,4 +1,4 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { getAchievements } from 'state/achievements/helpers'
 import { FetchStatus } from 'config/constants/types'
 import useSWR, { KeyedMutator } from 'swr'

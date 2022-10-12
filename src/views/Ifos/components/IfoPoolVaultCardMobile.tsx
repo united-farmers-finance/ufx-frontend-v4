@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import {
   Box,
   Card,
@@ -8,7 +8,7 @@ import {
   Flex,
   Text,
   TokenPairImage as UITokenPairImage,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { useVaultPoolByKey, useIfoCredit } from 'state/pools/hooks'
 import { useTranslation } from '@unitedfarmers/localization'

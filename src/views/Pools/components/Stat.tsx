@@ -1,6 +1,6 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@unitedfarmers/sdk'
 import Balance from 'components/Balance'
-import { Flex, Skeleton, Text, TooltipText, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Skeleton, Text, TooltipText, useTooltip } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from '@unitedfarmers/localization'
 import { FC, ReactNode } from 'react'

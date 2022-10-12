@@ -11,8 +11,8 @@ import {
   TwitterIcon,
   Link,
   TelegramIcon,
-} from '@pancakeswap/uikit'
-import { bscTokens } from '@pancakeswap/tokens'
+} from '@unitedfarmers/uikit'
+import { bscTokens } from '@unitedfarmers/tokens'
 import { useTranslation } from '@unitedfarmers/localization'
 import { PublicIfoData } from 'views/Ifos/types'
 import { Ifo } from 'config/constants/types'

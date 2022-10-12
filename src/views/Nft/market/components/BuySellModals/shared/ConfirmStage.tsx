@@ -1,4 +1,4 @@
-import { Flex, Text, Button, Spinner } from '@pancakeswap/uikit'
+import { Flex, Text, Button, Spinner } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 
 interface ConfirmStageProps {

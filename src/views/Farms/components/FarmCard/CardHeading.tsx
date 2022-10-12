@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { Tag, Flex, Heading, Box, Skeleton } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Tag, Flex, Heading, Box, Skeleton } from '@unitedfarmers/uikit'
+import { Token } from '@unitedfarmers/sdk'
 import { FarmAuctionTag, CoreTag, StableFarmTag } from 'components/Tags'
 import { TokenPairImage } from 'components/TokenImage'
 import BoostedTag from '../YieldBooster/components/BoostedTag'

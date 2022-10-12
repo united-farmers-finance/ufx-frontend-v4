@@ -1,4 +1,4 @@
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import { toDate, format } from 'date-fns'
 import { useTranslation } from '@unitedfarmers/localization'
 import { ProposalState } from 'state/types'

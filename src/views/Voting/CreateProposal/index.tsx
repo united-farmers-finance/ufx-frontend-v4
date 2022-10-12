@@ -14,15 +14,15 @@ import {
   Text,
   useModal,
   useToast,
-} from '@pancakeswap/uikit'
-import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React, useSignMessage } from '@unitedfarmers/wagmi'
 import times from 'lodash/times'
 import isEmpty from 'lodash/isEmpty'
 import { useInitialBlock } from 'state/block/hooks'
 import { SnapshotCommand } from 'state/types'
 
 import { getBlockExploreLink } from 'utils'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
 import { useTranslation } from '@unitedfarmers/localization'
 import Container from 'components/Layout/Container'
 import { DatePicker, TimePicker, DatePickerPortal } from 'views/Voting/components/DatePicker'

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Grid, useModal, Text, Flex } from '@pancakeswap/uikit'
+import { Grid, useModal, Text, Flex } from '@unitedfarmers/uikit'
 import { NftLocation, NftToken } from 'state/nftMarket/types'
 import { useTranslation } from '@unitedfarmers/localization'
 import { CollectibleActionCard } from '../../Nft/market/components/CollectibleCard'

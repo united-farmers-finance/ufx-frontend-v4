@@ -1,4 +1,4 @@
-import { Box, CardBody, Flex, Text } from '@pancakeswap/uikit'
+import { Box, CardBody, Flex, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import { isAddress } from 'utils'

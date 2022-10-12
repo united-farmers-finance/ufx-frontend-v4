@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Card, Text, BunnyPlaceholderIcon, Box } from '@pancakeswap/uikit'
+import { Card, Text, BunnyPlaceholderIcon, Box } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
 import { PoolIds } from 'config/constants/types'

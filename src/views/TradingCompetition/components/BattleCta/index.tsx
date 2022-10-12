@@ -11,7 +11,7 @@ import {
   Text,
   TwitterIcon,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { FINISHED, OVER, REGISTRATION } from 'config/constants/trading-competition/phases'
 import { useRouter } from 'next/router'

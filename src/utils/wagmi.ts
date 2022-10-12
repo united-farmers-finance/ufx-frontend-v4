@@ -1,5 +1,5 @@
-import { BinanceWalletConnector } from '@pancakeswap/wagmi/connectors/binanceWallet'
-import { bsc, bscTest, goerli, rinkeby, mainnet } from '@pancakeswap/wagmi/chains'
+import { BinanceWalletConnector } from '@unitedfarmers/wagmi/connectors/binanceWallet'
+import { bsc, bscTest, goerli, rinkeby, mainnet } from '@unitedfarmers/wagmi/chains'
 import { configureChains, createClient } from 'wagmi'
 import memoize from 'lodash/memoize'
 import { CoinbaseWalletConnector } from 'wagmi/connectors/coinbaseWallet'

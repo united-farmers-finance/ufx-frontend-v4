@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Heading, Flex, Button, Grid, ChevronRightIcon } from '@pancakeswap/uikit'
+import { Heading, Flex, Button, Grid, ChevronRightIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { NftToken } from 'state/nftMarket/types'

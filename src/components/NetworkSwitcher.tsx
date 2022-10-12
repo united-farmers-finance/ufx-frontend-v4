@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { ChainId, NATIVE } from '@pancakeswap/sdk'
+import { ChainId, NATIVE } from '@unitedfarmers/sdk'
 import {
   ArrowDownIcon,
   ArrowUpIcon,
@@ -12,8 +12,8 @@ import {
   UserMenuDivider,
   UserMenuItem,
   useTooltip,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useActiveChainId, useLocalNetworkChain } from 'hooks/useActiveChainId'
 import { useNetworkConnectorUpdater } from 'hooks/useActiveWeb3React'
 import { useHover } from 'hooks/useHover'

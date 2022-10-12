@@ -1,6 +1,6 @@
 import React from 'react'
-import { Currency, Fraction, Percent, CurrencyAmount, Token } from '@pancakeswap/sdk'
-import { Text, useTooltip, TooltipText, Box, Flex, Svg, SvgProps } from '@pancakeswap/uikit'
+import { Currency, Fraction, Percent, CurrencyAmount, Token } from '@unitedfarmers/sdk'
+import { Text, useTooltip, TooltipText, Box, Flex, Svg, SvgProps } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
 import { AutoColumn } from 'components/Layout/Column'

@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@unitedfarmers/sdk'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
@@ -9,7 +9,7 @@ import { PairState } from 'hooks/usePairs'
 import useTotalSupply from 'hooks/useTotalSupply'
 import { useContext, useMemo } from 'react'
 
-import tryParseAmount from '@pancakeswap/utils/tryParseAmount'
+import tryParseAmount from '@unitedfarmers/utils/tryParseAmount'
 import { Field } from 'state/mint/actions'
 import { useCurrencyBalances } from 'state/wallet/hooks'
 import { StableConfigContext } from 'views/Swap/StableSwap/hooks/useStableConfig'

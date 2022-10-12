@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { AutoRenewIcon, Button, useToast } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { AutoRenewIcon, Button, useToast } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import useCatchTxError from 'hooks/useCatchTxError'
 import React from 'react'

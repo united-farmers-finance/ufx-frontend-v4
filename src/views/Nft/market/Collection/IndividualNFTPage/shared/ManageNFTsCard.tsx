@@ -11,8 +11,8 @@ import {
   BinanceIcon,
   Skeleton,
   useModal,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useProfile } from 'state/profile/hooks'
 import { NftLocation, NftToken, Collection } from 'state/nftMarket/types'
 import { formatNumber } from 'utils/formatBalance'

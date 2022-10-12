@@ -9,8 +9,8 @@ import {
   ExpandableLabel,
   useMatchBreakpoints,
   useToast,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { Ifo, PoolIds } from 'config/constants/types'
 import useCatchTxError from 'hooks/useCatchTxError'

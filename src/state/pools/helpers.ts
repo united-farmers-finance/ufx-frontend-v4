@@ -8,7 +8,7 @@ import {
   SerializedLockedCakeVault,
   VaultKey,
 } from 'state/types'
-import { deserializeToken } from '@pancakeswap/tokens'
+import { deserializeToken } from '@unitedfarmers/tokens'
 import { BIG_ZERO } from 'utils/bigNumber'
 import { isAddress } from 'utils'
 import { convertSharesToCake } from 'views/Pools/helpers'

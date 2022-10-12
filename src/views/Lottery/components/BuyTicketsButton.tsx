@@ -1,4 +1,4 @@
-import { Button, useModal, WaitIcon, ButtonProps } from '@pancakeswap/uikit'
+import { Button, useModal, WaitIcon, ButtonProps } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useLottery } from 'state/lottery/hooks'
 import { LotteryStatus } from 'config/constants/types'

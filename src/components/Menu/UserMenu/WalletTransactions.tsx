@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Button, Flex, Text } from '@pancakeswap/uikit'
+import { Box, Button, Flex, Text } from '@unitedfarmers/uikit'
 import { useAppDispatch } from 'state'
 import { useAllSortedRecentTransactions } from 'state/transactions/hooks'
 import { useTranslation } from '@unitedfarmers/localization'

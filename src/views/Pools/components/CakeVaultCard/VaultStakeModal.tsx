@@ -14,8 +14,8 @@ import {
   Skeleton,
   Box,
   useToast,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useAppDispatch } from 'state'
 

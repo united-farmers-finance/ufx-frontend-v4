@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 
 const StyledNotFound = styled.div`

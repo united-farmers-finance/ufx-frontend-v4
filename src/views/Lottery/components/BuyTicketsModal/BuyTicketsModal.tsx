@@ -1,6 +1,6 @@
 import { MaxUint256 } from '@ethersproject/constants'
 import { useTranslation } from '@unitedfarmers/localization'
-import { bscTokens } from '@pancakeswap/tokens'
+import { bscTokens } from '@unitedfarmers/tokens'
 import {
   ArrowForwardIcon,
   BalanceInput,
@@ -13,8 +13,8 @@ import {
   Ticket,
   useToast,
   useTooltip,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import BigNumber from 'bignumber.js'
 import ApproveConfirmButtons, { ButtonArrangement } from 'components/ApproveConfirmButtons'
 import ConnectWalletButton from 'components/ConnectWalletButton'

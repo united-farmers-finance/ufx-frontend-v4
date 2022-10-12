@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import BigNumber from 'bignumber.js'
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { getFullDisplayBalance } from 'utils/formatBalance'
 

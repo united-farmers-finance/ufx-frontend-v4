@@ -8,8 +8,8 @@ import {
   Heading,
   Button,
   ChevronUpIcon,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import orderBy from 'lodash/orderBy'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Vote } from 'state/types'

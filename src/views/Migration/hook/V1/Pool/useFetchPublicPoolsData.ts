@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import { useAppDispatch } from 'state'
 import { getFarmConfig } from '@unitedfarmers/farms/constants'
 import { useSlowRefreshEffect } from 'hooks/useRefreshEffect'

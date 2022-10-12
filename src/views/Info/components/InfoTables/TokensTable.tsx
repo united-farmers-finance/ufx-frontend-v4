@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, Skeleton, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, Skeleton, Text, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import orderBy from 'lodash/orderBy'
 import { Fragment, useCallback, useEffect, useMemo, useState } from 'react'

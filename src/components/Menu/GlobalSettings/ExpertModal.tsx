@@ -8,7 +8,7 @@ import {
   InjectedModalProps,
   Checkbox,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useExpertModeManager } from 'state/user/hooks'
 import { useTranslation } from '@unitedfarmers/localization'
 

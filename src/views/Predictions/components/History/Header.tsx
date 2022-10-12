@@ -1,4 +1,4 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import {
   ArrowForwardIcon,
   Box,
@@ -9,7 +9,7 @@ import {
   Text,
   ButtonMenu,
   ButtonMenuItem,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { HistoryFilter } from 'state/types'
 import { setHistoryFilter, setHistoryPaneState } from 'state/predictions'

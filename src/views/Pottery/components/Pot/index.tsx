@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useState, useCallback } from 'react'
-import { Flex, Box, Card, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Flex, Box, Card, Text, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { getBalanceNumber } from 'utils/formatBalance'

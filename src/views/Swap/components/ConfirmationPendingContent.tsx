@@ -1,8 +1,8 @@
 import styled from 'styled-components'
-import { Text, Spinner } from '@pancakeswap/uikit'
+import { Text, Spinner } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { AutoColumn, ColumnCenter } from 'components/Layout/Column'
-import { Trade, Currency, TradeType } from '@pancakeswap/sdk'
+import { Trade, Currency, TradeType } from '@unitedfarmers/sdk'
 import { StableTrade } from '../StableSwap/hooks/useStableTradeExactIn'
 
 const Wrapper = styled.div`

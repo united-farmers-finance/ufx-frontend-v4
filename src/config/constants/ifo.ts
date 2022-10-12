@@ -1,5 +1,5 @@
-import { Token, ChainId } from '@pancakeswap/sdk'
-import { bscTokens } from '@pancakeswap/tokens'
+import { Token, ChainId } from '@unitedfarmers/sdk'
+import { bscTokens } from '@unitedfarmers/tokens'
 import { CAKE_BNB_LP_MAINNET } from './lp'
 import { Ifo } from './types'
 

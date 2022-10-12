@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Modal, ModalBody, Flex } from '@pancakeswap/uikit'
+import { Modal, ModalBody, Flex } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { LightGreyCard } from 'components/Card'
 import { useFarmHarvestTransaction } from 'state/global/hooks'

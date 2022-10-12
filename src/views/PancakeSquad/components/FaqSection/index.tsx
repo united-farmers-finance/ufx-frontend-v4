@@ -1,4 +1,4 @@
-import { Text, Heading, Card, CardHeader, CardBody } from '@pancakeswap/uikit'
+import { Text, Heading, Card, CardHeader, CardBody } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { LandingBodyWrapper } from 'views/PancakeSquad/styles'
 import FoldableText from 'components/FoldableSection/FoldableText'

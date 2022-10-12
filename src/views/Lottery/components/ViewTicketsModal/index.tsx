@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal } from '@pancakeswap/uikit'
+import { Modal } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { LotteryStatus } from 'config/constants/types'
 import { useLottery } from 'state/lottery/hooks'

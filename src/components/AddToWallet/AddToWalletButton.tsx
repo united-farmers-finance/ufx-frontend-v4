@@ -8,7 +8,7 @@ import {
   OperaIcon,
   TokenPocketIcon,
   TrustWalletIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { BAD_SRCS } from 'components/Logo/Logo'
 import { useAccount } from 'wagmi'
 import { canRegisterToken } from '../../utils/wallet'

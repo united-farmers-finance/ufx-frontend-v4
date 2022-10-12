@@ -1,9 +1,9 @@
-import { Currency, Pair } from '@pancakeswap/sdk'
-import { Button, ChevronDownIcon, Text, useModal, Flex, Box } from '@pancakeswap/uikit'
+import { Currency, Pair } from '@unitedfarmers/sdk'
+import { Button, ChevronDownIcon, Text, useModal, Flex, Box } from '@unitedfarmers/uikit'
 import styled, { css } from 'styled-components'
 import { isAddress } from 'utils'
 import { useTranslation } from '@unitedfarmers/localization'
-import { WrappedTokenInfo } from '@pancakeswap/tokens'
+import { WrappedTokenInfo } from '@unitedfarmers/tokens'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { StablePair } from 'views/AddLiquidity/AddStableLiquidity/hooks/useStableLPDerivedMintInfo'
 

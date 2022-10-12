@@ -1,5 +1,5 @@
 import { BigNumber, FixedNumber } from '@ethersproject/bignumber'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import _toNumber from 'lodash/toNumber'
 import { SerializedFarmPublicData, FarmData } from './types'
 import { equalsIgnoreCase } from './equalsIgnoreCase'

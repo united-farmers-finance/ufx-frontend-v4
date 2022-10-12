@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Skeleton, Text } from '@pancakeswap/uikit'
+import { Flex, Skeleton, Text } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
 import Balance from 'components/Balance'

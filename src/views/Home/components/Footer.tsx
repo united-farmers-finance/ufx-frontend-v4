@@ -1,9 +1,9 @@
 import styled from 'styled-components'
-import { Flex, Heading, Text, Link, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Flex, Heading, Text, Link, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import Container from 'components/Layout/Container'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import SunburstSvg from './SunburstSvg'
 import CompositeImage from './CompositeImage'
 

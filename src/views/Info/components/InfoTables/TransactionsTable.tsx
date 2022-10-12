@@ -1,9 +1,9 @@
 // TODO PCS refactor ternaries
 /* eslint-disable no-nested-ternary */
 import { useTranslation } from '@unitedfarmers/localization'
-import { ChainId } from '@pancakeswap/sdk'
-import truncateHash from '@pancakeswap/utils/truncateHash'
-import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, LinkExternal, Radio, Skeleton, Text } from '@pancakeswap/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
+import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, LinkExternal, Radio, Skeleton, Text } from '@unitedfarmers/uikit'
 import { ITEMS_PER_INFO_TABLE_PAGE } from 'config/constants/info'
 import { formatDistanceToNowStrict } from 'date-fns'
 import { Fragment, useCallback, useEffect, useMemo, useState } from 'react'

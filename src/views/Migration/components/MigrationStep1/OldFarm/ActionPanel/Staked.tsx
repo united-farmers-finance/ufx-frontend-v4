@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
-import { Heading, Text } from '@pancakeswap/uikit'
+import { Heading, Text } from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { getBalanceNumber, formatLpBalance } from 'utils/formatBalance'
 import { ActionContainer, ActionContent, ActionTitles } from 'views/Pools/components/PoolsTable/ActionPanel/styles'

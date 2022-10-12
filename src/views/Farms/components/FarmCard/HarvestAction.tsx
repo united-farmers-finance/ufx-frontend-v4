@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, Flex, Heading, TooltipText, useToast, useTooltip, useModal } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Button, Flex, Heading, TooltipText, useToast, useTooltip, useModal } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'
 import { ToastDescriptionWithTx } from 'components/Toast'
@@ -10,7 +10,7 @@ import { TransactionResponse } from '@ethersproject/providers'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { BIG_ZERO } from 'utils/bigNumber'
 import { getBalanceAmount } from 'utils/formatBalance'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@unitedfarmers/sdk'
 import MultiChainHarvestModal from 'views/Farms/components/MultiChainHarvestModal'
 
 interface FarmCardActionsProps {

@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { AutoRenewIcon, Button, Flex, PresentWonIcon, Text, useToast } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { AutoRenewIcon, Button, Flex, PresentWonIcon, Text, useToast } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import Balance from 'components/Balance'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { LotteryTicket, LotteryTicketClaimData } from 'config/constants/types'

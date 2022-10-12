@@ -10,7 +10,7 @@ import {
   Message,
   Flex,
   RocketIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { formatNumber } from 'utils/formatBalance'
 import useCurrentBlockTimestamp from 'hooks/useCurrentBlockTimestamp'

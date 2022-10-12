@@ -10,7 +10,7 @@ import {
   Heading,
   Checkbox,
   Box,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useUserPredictionChainlinkChartDisclaimerShow } from 'state/user/hooks'

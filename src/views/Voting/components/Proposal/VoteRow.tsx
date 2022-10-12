@@ -1,5 +1,5 @@
-import { Flex, LinkExternal, Text, Tag, CheckmarkCircleIcon } from '@pancakeswap/uikit'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+import { Flex, LinkExternal, Text, Tag, CheckmarkCircleIcon } from '@unitedfarmers/uikit'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
 import { getBlockExploreLink } from 'utils'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Vote } from 'state/types'

@@ -1,7 +1,7 @@
 import { MaxUint256 } from '@ethersproject/constants'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useCake } from 'hooks/useContract'
-import { useToast } from '@pancakeswap/uikit'
+import { useToast } from '@unitedfarmers/uikit'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'
 import useCatchTxError from 'hooks/useCatchTxError'
 import { ToastDescriptionWithTx } from 'components/Toast'

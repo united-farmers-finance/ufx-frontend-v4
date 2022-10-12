@@ -1,4 +1,4 @@
-import { RocketIcon, Tag, TagProps } from '@pancakeswap/uikit'
+import { RocketIcon, Tag, TagProps } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { memo } from 'react'
 

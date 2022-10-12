@@ -1,5 +1,5 @@
-import { ArrowForwardIcon, Button, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
-import { ChainId } from '@pancakeswap/sdk'
+import { ArrowForwardIcon, Button, Text, useMatchBreakpoints } from '@unitedfarmers/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useActiveIfoWithBlocks } from 'hooks/useActiveIfoWithBlocks'

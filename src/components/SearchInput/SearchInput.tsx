@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { Input } from '@pancakeswap/uikit'
+import { Input } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import debounce from 'lodash/debounce'
 import { useTranslation } from '@unitedfarmers/localization'

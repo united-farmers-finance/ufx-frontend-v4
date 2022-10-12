@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import styled from 'styled-components'
-import { Button, ChevronUpIcon } from '@pancakeswap/uikit'
+import { Button, ChevronUpIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import throttle from 'lodash/throttle'
 

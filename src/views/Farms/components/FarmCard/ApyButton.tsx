@@ -1,7 +1,7 @@
 import { useContext, useState } from 'react'
 
 import { useTranslation } from '@unitedfarmers/localization'
-import { CalculateIcon, Flex, IconButton, Text, TooltipText, useModal, useTooltip } from '@pancakeswap/uikit'
+import { CalculateIcon, Flex, IconButton, Text, TooltipText, useModal, useTooltip } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import _toNumber from 'lodash/toNumber'
 import RoiCalculatorModal from 'components/RoiCalculatorModal'

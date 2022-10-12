@@ -1,4 +1,4 @@
-import { Text, Skeleton } from '@pancakeswap/uikit'
+import { Text, Skeleton } from '@unitedfarmers/uikit'
 
 interface UserPrizeGridDollarProps {
   dollarValueOfTokensReward: number

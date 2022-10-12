@@ -1,5 +1,5 @@
-import { Token } from '@pancakeswap/sdk'
-import { bscTokens } from '@pancakeswap/tokens'
+import { Token } from '@unitedfarmers/sdk'
+import { bscTokens } from '@unitedfarmers/tokens'
 import { bscWarningTokens } from 'config/constants/warningTokens'
 
 const { bondly, itam, ccar, bttold } = bscTokens

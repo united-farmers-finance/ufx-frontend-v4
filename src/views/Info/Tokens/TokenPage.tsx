@@ -13,8 +13,8 @@ import {
   Spinner,
   Text,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+} from '@unitedfarmers/uikit'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
 import Page from 'components/Layout/Page'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { ONE_HOUR_SECONDS } from 'config/constants/info'

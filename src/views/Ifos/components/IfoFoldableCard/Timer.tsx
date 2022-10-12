@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
-import { Flex, Heading, PocketWatchIcon, Text, Skeleton, Link, TimerIcon } from '@pancakeswap/uikit'
+import { Flex, Heading, PocketWatchIcon, Text, Skeleton, Link, TimerIcon } from '@unitedfarmers/uikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { getBlockExploreLink } from 'utils'

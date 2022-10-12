@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useRouter } from 'next/router'
-import { Box, Flex, Text } from '@pancakeswap/uikit'
+import { Box, Flex, Text } from '@unitedfarmers/uikit'
 import { useGetCollection } from 'state/nftMarket/hooks'
 import { useTranslation } from '@unitedfarmers/localization'
 import Select, { OptionProps } from 'components/Select/Select'

@@ -1,4 +1,4 @@
-import { Box, Flex, Text, NftIcon } from '@pancakeswap/uikit'
+import { Box, Flex, Text, NftIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { NftAttribute } from 'state/nftMarket/types'
 import ExpandableCard from './ExpandableCard'

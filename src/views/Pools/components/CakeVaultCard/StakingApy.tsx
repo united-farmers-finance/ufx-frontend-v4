@@ -1,4 +1,4 @@
-import { Flex, Text, Skeleton, useModal, Button, CalculateIcon } from '@pancakeswap/uikit'
+import { Flex, Text, Skeleton, useModal, Button, CalculateIcon } from '@unitedfarmers/uikit'
 import { LightGreyCard } from 'components/Card'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useVaultApy } from 'hooks/useVaultApy'

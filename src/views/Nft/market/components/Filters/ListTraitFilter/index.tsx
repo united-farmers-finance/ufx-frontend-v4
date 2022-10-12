@@ -12,7 +12,7 @@ import {
   InputGroup,
   SearchIcon,
   CloseIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import orderBy from 'lodash/orderBy'
 import { useGetNftFilters } from 'state/nftMarket/hooks'

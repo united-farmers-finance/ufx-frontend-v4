@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, Heading, NftIcon, BunnyPlaceholderIcon } from '@pancakeswap/uikit'
+import { Flex, Text, Heading, NftIcon, BunnyPlaceholderIcon } from '@unitedfarmers/uikit'
 import Image from 'next/image'
 import { useTranslation } from '@unitedfarmers/localization'
 import MoboxFlipperBunny from '../../../pngs/mobox-flipper.png'

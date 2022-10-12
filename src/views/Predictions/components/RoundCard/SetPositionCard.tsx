@@ -15,11 +15,11 @@ import {
   Slider,
   Box,
   AutoRenewIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { BigNumber, FixedNumber } from '@ethersproject/bignumber'
 import { Zero } from '@ethersproject/constants'
 import { parseUnits } from '@ethersproject/units'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useGetMinBetAmount } from 'state/predictions/hooks'
 import { useTranslation } from '@unitedfarmers/localization'
 import { usePredictionsContract } from 'hooks/useContract'

@@ -1,9 +1,9 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
-import { Currency, CurrencyAmount } from '@pancakeswap/sdk'
+import { useWeb3React } from '@unitedfarmers/wagmi'
+import { Currency, CurrencyAmount } from '@unitedfarmers/sdk'
 import { useTranslation } from '@unitedfarmers/localization'
 import { isAddress } from 'utils'
 
-import tryParseAmount from '@pancakeswap/utils/tryParseAmount'
+import tryParseAmount from '@unitedfarmers/utils/tryParseAmount'
 import { Field } from 'state/swap/actions'
 import { computeSlippageAdjustedAmounts } from 'utils/exchange'
 import { useUserSlippageTolerance } from 'state/user/hooks'

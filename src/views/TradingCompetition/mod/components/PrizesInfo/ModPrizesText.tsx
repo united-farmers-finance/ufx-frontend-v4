@@ -1,4 +1,4 @@
-import { Flex, Heading, Text } from '@pancakeswap/uikit'
+import { Flex, Heading, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import Image from 'next/image'
 import styled from 'styled-components'

@@ -1,6 +1,6 @@
 import { useCallback, useContext, useMemo, useState } from 'react'
-import { CurrencyAmount, Token, WNATIVE } from '@pancakeswap/sdk'
-import { Button, Text, AddIcon, CardBody, Message, useModal } from '@pancakeswap/uikit'
+import { CurrencyAmount, Token, WNATIVE } from '@unitedfarmers/sdk'
+import { Button, Text, AddIcon, CardBody, Message, useModal } from '@unitedfarmers/uikit'
 import { logError } from 'utils/sentry'
 import { useTranslation } from '@unitedfarmers/localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

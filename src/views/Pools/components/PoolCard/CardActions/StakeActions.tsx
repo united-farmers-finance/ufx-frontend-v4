@@ -1,4 +1,14 @@
-import { Flex, Text, Button, IconButton, AddIcon, MinusIcon, useModal, Skeleton, useTooltip } from '@pancakeswap/uikit'
+import {
+  Flex,
+  Text,
+  Button,
+  IconButton,
+  AddIcon,
+  MinusIcon,
+  useModal,
+  Skeleton,
+  useTooltip,
+} from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from '@unitedfarmers/localization'
 import { getBalanceNumber } from 'utils/formatBalance'

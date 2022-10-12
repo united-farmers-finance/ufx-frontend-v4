@@ -1,6 +1,6 @@
 import { useCallback } from 'react'
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useDepositPottery } from 'views/Pottery/hooks/useDepositPottery'
 import { PotteryDepositStatus } from 'state/types'

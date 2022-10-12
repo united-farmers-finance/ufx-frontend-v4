@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
-import { Text, Flex, ChevronRightIcon, Box, SmallDotIcon, PrizeIcon } from '@pancakeswap/uikit'
+import { Text, Flex, ChevronRightIcon, Box, SmallDotIcon, PrizeIcon } from '@unitedfarmers/uikit'
 import { dateOptions, timeOptions } from '../../helpers'
 
 interface FinishedRoundRowProps {

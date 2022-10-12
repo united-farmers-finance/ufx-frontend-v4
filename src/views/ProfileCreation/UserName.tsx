@@ -15,9 +15,9 @@ import {
   Skeleton,
   Checkbox,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { parseISO, formatDistance } from 'date-fns'
-import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
+import { useWeb3React, useSignMessage } from '@unitedfarmers/wagmi'
 import { formatUnits } from '@ethersproject/units'
 import { API_PROFILE } from 'config/constants/endpoints'
 import { useGetCakeBalance } from 'hooks/useTokenBalance'

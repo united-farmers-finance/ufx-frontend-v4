@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Flex, Box, CardFooter, ExpandableLabel } from '@pancakeswap/uikit'
+import { Text, Flex, Box, CardFooter, ExpandableLabel } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import WhitelistedBiddersButton from '../WhitelistedBiddersButton'

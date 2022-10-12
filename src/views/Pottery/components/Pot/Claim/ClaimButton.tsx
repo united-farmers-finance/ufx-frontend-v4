@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon } from '@unitedfarmers/uikit'
 import { useClaimPottery } from 'views/Pottery/hooks/useClaimPottery'
 
 interface ClaimButtonProps {

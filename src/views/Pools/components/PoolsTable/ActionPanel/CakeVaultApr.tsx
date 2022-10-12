@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Skeleton, Text, CalculateIcon, useModal } from '@pancakeswap/uikit'
+import { Box, Button, Flex, Skeleton, Text, CalculateIcon, useModal } from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { useTranslation } from '@unitedfarmers/localization'
 import { DeserializedPool, DeserializedLockedVaultUser, VaultKey, DeserializedVaultUser } from 'state/types'

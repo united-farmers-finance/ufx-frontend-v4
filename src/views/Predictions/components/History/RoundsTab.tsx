@@ -1,6 +1,6 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import orderBy from 'lodash/orderBy'
-import { Box, Button, Flex, Heading, Text } from '@pancakeswap/uikit'
+import { Box, Button, Flex, Heading, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { Bet } from 'state/types'

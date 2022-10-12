@@ -1,11 +1,11 @@
 import { useMemo } from 'react'
 import styled from 'styled-components'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import BigNumber from 'bignumber.js'
 import { Ifo } from 'config/constants/types'
 import { getBalanceNumber, formatNumber } from 'utils/formatBalance'
-import isUndefinedOrNull from '@pancakeswap/utils/isUndefinedOrNull'
+import isUndefinedOrNull from '@unitedfarmers/utils/isUndefinedOrNull'
 import ReleasedChart from './ReleasedChart'
 
 const Dot = styled.div<{ isActive?: boolean }>`

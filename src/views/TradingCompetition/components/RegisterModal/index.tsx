@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal, Button, NoProfileAvatarIcon, Flex } from '@pancakeswap/uikit'
+import { Modal, Button, NoProfileAvatarIcon, Flex } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import ProfileAvatarWithTeam from 'components/ProfileAvatarWithTeam'
 import { CompetitionProps } from '../../types'

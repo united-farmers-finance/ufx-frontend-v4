@@ -1,5 +1,5 @@
-import { Flex, Grid, Text, Button, Input, BinanceIcon, ErrorIcon } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Flex, Grid, Text, Button, Input, BinanceIcon, ErrorIcon } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useTranslation } from '@unitedfarmers/localization'
 import { NftToken } from 'state/nftMarket/types'
 import { Divider, RoundedImage } from '../shared/styles'

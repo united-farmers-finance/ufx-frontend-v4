@@ -1,6 +1,6 @@
 import { SetStateAction, useCallback, useEffect, useState, Dispatch, useContext } from 'react'
 import styled from 'styled-components'
-import { Currency, CurrencyAmount, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Percent } from '@unitedfarmers/sdk'
 import {
   Text,
   ArrowDownIcon,
@@ -11,8 +11,8 @@ import {
   Flex,
   Message,
   MessageText,
-} from '@pancakeswap/uikit'
-import InfoTooltip from '@pancakeswap/uikit/src/components/Timeline/InfoTooltip'
+} from '@unitedfarmers/uikit'
+import InfoTooltip from '@unitedfarmers/uikit/src/components/Timeline/InfoTooltip'
 
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@unitedfarmers/localization'
@@ -31,7 +31,7 @@ import { Field } from 'state/swap/actions'
 import { useSwapState } from 'state/swap/hooks'
 import { useExpertModeManager, useUserSlippageTolerance } from 'state/user/hooks'
 
-import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
+import replaceBrowserHistory from '@unitedfarmers/utils/replaceBrowserHistory'
 import { currencyId } from 'utils/currencyId'
 import TradePrice from 'views/Swap/components/TradePrice'
 

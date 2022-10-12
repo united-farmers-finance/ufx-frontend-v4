@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Text } from '@pancakeswap/uikit'
+import { Box, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import LineChartLoaderSVG from './LineChartLoaderSVG'
 import BarChartLoaderSVG from './BarChartLoaderSVG'

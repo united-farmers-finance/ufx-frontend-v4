@@ -1,5 +1,5 @@
 import { useCallback, useState, useRef, useEffect } from 'react'
-import { Currency, Token } from '@pancakeswap/sdk'
+import { Currency, Token } from '@unitedfarmers/sdk'
 import {
   ModalContainer,
   ModalHeader,
@@ -12,7 +12,7 @@ import {
   Button,
   useMatchBreakpoints,
   MODAL_SWIPE_TO_CLOSE_VELOCITY,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { usePreviousValue } from '@unitedfarmers/hooks'
 import { TokenList } from '@uniswap/token-lists'

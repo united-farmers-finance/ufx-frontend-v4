@@ -1,6 +1,6 @@
 import { useInterval, useIsWindowVisible } from '@unitedfarmers/hooks'
-import { useFetchListCallback } from '@pancakeswap/token-lists'
-import { acceptListUpdate, updateListVersion } from '@pancakeswap/token-lists/src/actions'
+import { useFetchListCallback } from '@unitedfarmers/token-lists'
+import { acceptListUpdate, updateListVersion } from '@unitedfarmers/token-lists/src/actions'
 import { getVersionUpgrade, VersionUpgrade } from '@uniswap/token-lists'
 import { UNSUPPORTED_LIST_URLS } from 'config/constants/lists'
 import { EXCHANGE_PAGE_PATHS } from 'config/constants/exchange'

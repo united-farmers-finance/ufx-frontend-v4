@@ -1,5 +1,5 @@
-import { Text, Flex, Skeleton, Heading, Box, useMatchBreakpoints } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Text, Flex, Skeleton, Heading, Box, useMatchBreakpoints } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { getCakeVaultEarnings } from 'views/Pools/helpers'
 import { useTranslation } from '@unitedfarmers/localization'
 import { BalanceWithLoading } from 'components/Balance'

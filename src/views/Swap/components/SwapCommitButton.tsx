@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, Text, useModal } from '@pancakeswap/uikit'
-import { Currency, CurrencyAmount, Trade, TradeType } from '@pancakeswap/sdk'
+import { Button, Text, useModal } from '@unitedfarmers/uikit'
+import { Currency, CurrencyAmount, Trade, TradeType } from '@unitedfarmers/sdk'
 
 import { GreyCard } from 'components/Card'
 import { CommitButton } from 'components/CommitButton'

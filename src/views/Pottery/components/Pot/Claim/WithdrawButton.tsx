@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon } from '@unitedfarmers/uikit'
 import { useWithdrawPottery } from 'views/Pottery/hooks/useWithdrawPottery'
 import { PotteryDepositStatus } from 'state/types'
 import BigNumber from 'bignumber.js'

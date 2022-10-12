@@ -1,5 +1,5 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
-import { useIsomorphicEffect } from '@pancakeswap/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
+import { useIsomorphicEffect } from '@unitedfarmers/uikit'
 import { usePreviousValue } from '@unitedfarmers/hooks'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import { useGetSortedRoundsCurrentEpoch } from 'state/predictions/hooks'

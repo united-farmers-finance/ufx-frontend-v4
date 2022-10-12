@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, CardBody, Heading, ArrowBackIcon, IconButton } from '@pancakeswap/uikit'
+import { Card, CardBody, Heading, ArrowBackIcon, IconButton } from '@unitedfarmers/uikit'
 import { useRouter } from 'next/router'
 import { useTranslation } from '@unitedfarmers/localization'
 import { PredictionSupportedSymbol } from 'state/types'

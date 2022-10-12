@@ -11,7 +11,7 @@ import {
   Input,
   ArrowUpIcon,
   ArrowDownIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { Collection, MarketEvent } from 'state/nftMarket/types'
 import { useGetCollections } from 'state/nftMarket/hooks'
 import { useNftStorage } from 'state/nftMarket/storage'

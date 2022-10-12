@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { AutoRenewIcon, Button, useToast } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { AutoRenewIcon, Button, useToast } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import BigNumber from 'bignumber.js'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import cakeVaultAbi from 'config/abi/cakeVaultV2.json'

@@ -13,11 +13,11 @@ import {
   Message,
   MessageText,
   ErrorIcon,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
-import { Token } from '@pancakeswap/sdk'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
+import { Token } from '@unitedfarmers/sdk'
 import { Ifo, PoolIds } from 'config/constants/types'
-import { bscTokens } from '@pancakeswap/tokens'
+import { bscTokens } from '@unitedfarmers/tokens'
 import { cakeBnbLpToken } from 'config/constants/ifo'
 import { PublicIfoData, WalletIfoData } from 'views/Ifos/types'
 import { useTranslation } from '@unitedfarmers/localization'

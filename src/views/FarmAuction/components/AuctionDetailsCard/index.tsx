@@ -12,7 +12,7 @@ import {
   Button,
   CheckmarkCircleIcon,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Auction, AuctionStatus, ConnectedBidder } from 'config/constants/types'
 import { getBalanceNumber } from 'utils/formatBalance'

@@ -1,6 +1,6 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import ConnectWalletButton from 'components/ConnectWalletButton'
-import { Flex, Text, Button, ButtonMenu, ButtonMenuItem, Message, Link } from '@pancakeswap/uikit'
+import { Flex, Text, Button, ButtonMenu, ButtonMenuItem, Message, Link } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { NftToken } from 'state/nftMarket/types'
 import { getBscScanLinkForNft } from 'utils'

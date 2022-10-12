@@ -1,5 +1,5 @@
-import { Box, CardBody, CardProps, Flex, Text, TokenPairImage, Skeleton } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Box, CardBody, CardProps, Flex, Text, TokenPairImage, Skeleton } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { FlexGap } from 'components/Layout/Flex'
 import { vaultPoolConfig } from 'config/constants/pools'

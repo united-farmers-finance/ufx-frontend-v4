@@ -1,6 +1,6 @@
 import { infoClient, infoClientETH, infoStableSwapClient } from 'utils/graphql'
 import { INFO_CLIENT, INFO_CLIENT_ETH, BLOCKS_CLIENT, BLOCKS_CLIENT_ETH } from 'config/constants/endpoints'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import { PCS_V2_START, PCS_ETH_START, ETH_TOKEN_BLACKLIST, TOKEN_BLACKLIST } from 'config/constants/info'
 
 export type MultiChainName = 'BSC' | 'ETH'

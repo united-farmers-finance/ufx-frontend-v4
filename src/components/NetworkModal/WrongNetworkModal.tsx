@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { ChainId } from '@pancakeswap/sdk'
-import { ArrowForwardIcon, Button, Grid, Message, MessageText, Modal, Text } from '@pancakeswap/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
+import { ArrowForwardIcon, Button, Grid, Message, MessageText, Modal, Text } from '@unitedfarmers/uikit'
 import { FlexGap } from 'components/Layout/Flex'
 import { ChainLogo } from 'components/Logo/ChainLogo'
 import useAuth from 'hooks/useAuth'

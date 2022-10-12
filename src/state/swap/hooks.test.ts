@@ -110,9 +110,9 @@ jest.mock('../../hooks/useActiveWeb3React', () => {
 
 var mockUseWeb3React: jest.Mock
 
-jest.mock('@pancakeswap/wagmi', () => {
+jest.mock('@unitedfarmers/wagmi', () => {
   mockUseWeb3React = jest.fn().mockReturnValue({})
-  const original = jest.requireActual('@pancakeswap/wagmi') // Step 2.
+  const original = jest.requireActual('@unitedfarmers/wagmi') // Step 2.
   return {
     ...original,
     useWeb3React: mockUseWeb3React,

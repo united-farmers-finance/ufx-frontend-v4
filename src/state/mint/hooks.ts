@@ -11,7 +11,7 @@ import {
   Percent,
   Price,
   Token,
-} from '@pancakeswap/sdk'
+} from '@unitedfarmers/sdk'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 import { FetchStatus } from 'config/constants/types'
 import { useTradeExactIn } from 'hooks/Trades'
@@ -26,7 +26,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useSelector } from 'react-redux'
 import { useGasPrice } from 'state/user/hooks'
 import { warningSeverity } from 'utils/exchange'
-import tryParseAmount from '@pancakeswap/utils/tryParseAmount'
+import tryParseAmount from '@unitedfarmers/utils/tryParseAmount'
 import { AppState, useAppDispatch } from '../index'
 import { useCurrencyBalances } from '../wallet/hooks'
 import { Field, typeInput } from './actions'

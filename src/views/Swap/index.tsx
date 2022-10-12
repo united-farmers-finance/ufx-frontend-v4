@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
-import { ChainId, Currency } from '@pancakeswap/sdk'
-import { Box, Flex, BottomDrawer, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { ChainId, Currency } from '@unitedfarmers/sdk'
+import { Box, Flex, BottomDrawer, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import Footer from 'components/Menu/Footer'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { EXCHANGE_DOCS_URLS } from 'config/constants'

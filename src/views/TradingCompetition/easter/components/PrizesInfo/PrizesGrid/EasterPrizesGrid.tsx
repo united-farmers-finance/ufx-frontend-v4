@@ -16,7 +16,7 @@ import {
   Text,
   TeamPlayerIcon,
   TrophyGoldIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Td, BoldTd, StyledPrizeTable } from '../../../../components/StyledPrizeTable'
 

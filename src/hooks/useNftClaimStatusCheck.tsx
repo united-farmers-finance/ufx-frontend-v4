@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import { useModal } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useModal } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { getBunnySpecialXmasContract } from 'utils/contractHelpers'
 import { bscRpcProvider } from 'utils/providers'
 import ClaimNftModal from 'components/ClaimNftModal/ClaimNftModal'

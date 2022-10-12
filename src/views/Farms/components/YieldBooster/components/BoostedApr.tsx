@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { RocketIcon, Text } from '@pancakeswap/uikit'
-import isUndefinedOrNull from '@pancakeswap/utils/isUndefinedOrNull'
+import { RocketIcon, Text } from '@unitedfarmers/uikit'
+import isUndefinedOrNull from '@unitedfarmers/utils/isUndefinedOrNull'
 import BigNumber from 'bignumber.js'
 import _toNumber from 'lodash/toNumber'
 import { memo, useContext } from 'react'

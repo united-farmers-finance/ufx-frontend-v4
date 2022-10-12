@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
-import { Flex, Heading, Text } from '@pancakeswap/uikit'
+import { Flex, Heading, Text } from '@unitedfarmers/uikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import { remainTimeToNextFriday } from '../helpers'
 

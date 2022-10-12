@@ -1,5 +1,5 @@
-import { Button, Modal, Text, Grid, Box, Message, MessageText } from '@pancakeswap/uikit'
-import { ChainId } from '@pancakeswap/sdk'
+import { Button, Modal, Text, Grid, Box, Message, MessageText } from '@unitedfarmers/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
 import Image from 'next/future/image'
 import { useSwitchNetwork, useSwitchNetworkLocal } from 'hooks/useSwitchNetwork'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import Divider from 'components/Divider'
 import { Ifo, PoolIds } from 'config/constants/types'

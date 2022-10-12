@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
-import { Button, Text, Link, HelpIcon, Message, MessageText } from '@pancakeswap/uikit'
-import { ChainId } from '@pancakeswap/sdk'
+import { Button, Text, Link, HelpIcon, Message, MessageText } from '@unitedfarmers/uikit'
+import { ChainId } from '@unitedfarmers/sdk'
 import { useSwitchNetwork } from 'hooks/useSwitchNetwork'
 
 const StyledLink = styled(Link)`

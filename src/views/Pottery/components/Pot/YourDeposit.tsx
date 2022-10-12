@@ -1,6 +1,6 @@
-import { Box, Text, Skeleton } from '@pancakeswap/uikit'
+import { Box, Text, Skeleton } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useTranslation } from '@unitedfarmers/localization'
 import Balance from 'components/Balance'
 import { usePriceCakeBusd } from 'state/farms/hooks'

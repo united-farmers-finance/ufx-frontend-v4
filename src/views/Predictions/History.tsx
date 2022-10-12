@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import { Flex, Spinner, Text } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { Flex, Spinner, Text } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import styled from 'styled-components'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { useTranslation } from '@unitedfarmers/localization'

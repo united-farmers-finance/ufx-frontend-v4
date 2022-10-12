@@ -1,4 +1,4 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { useGetPredictionsStatus } from 'state/predictions/hooks'
 import { fetchPredictionData } from 'state/predictions'
 import { PredictionStatus } from 'state/types'

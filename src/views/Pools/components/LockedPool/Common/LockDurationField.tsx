@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Text, Flex, Button, Input, Box, Message, MessageText } from '@pancakeswap/uikit'
+import { Text, Flex, Button, Input, Box, Message, MessageText } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTranslation } from '@unitedfarmers/localization'
 import _toNumber from 'lodash/toNumber'

@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { AutoRenewIcon } from '@pancakeswap/uikit'
+import { AutoRenewIcon } from '@unitedfarmers/uikit'
 import { ReactNode, useCallback, useContext } from 'react'
 
 import { NextLinkFromReactRouter } from 'components/NextLink'

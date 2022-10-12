@@ -1,5 +1,5 @@
-import { useModal, useMatchBreakpoints } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useModal, useMatchBreakpoints } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { PageMeta } from 'components/Layout/Page'
 import { useEffect, useRef } from 'react'
 import { useInitialBlock } from 'state/block/hooks'

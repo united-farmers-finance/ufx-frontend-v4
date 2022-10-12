@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
-import { Text, Flex, LinkExternal, Skeleton } from '@pancakeswap/uikit'
+import { Text, Flex, LinkExternal, Skeleton } from '@unitedfarmers/uikit'
 
 export interface ExpandableSectionProps {
   bscScanAddress?: string

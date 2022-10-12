@@ -1,4 +1,4 @@
-import { Card, CardBody, Text, Flex, BlockIcon, LinkExternal } from '@pancakeswap/uikit'
+import { Card, CardBody, Text, Flex, BlockIcon, LinkExternal } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { NodeRound, BetPosition } from 'state/types'
 import useTheme from 'hooks/useTheme'

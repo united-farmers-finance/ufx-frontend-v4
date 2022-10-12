@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { AutoRenewIcon, Button, Checkbox, Flex, InjectedModalProps, Text, useToast } from '@pancakeswap/uikit'
+import { AutoRenewIcon, Button, Checkbox, Flex, InjectedModalProps, Text, useToast } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import useGetProfileCosts from 'views/Profile/hooks/useGetProfileCosts'
 import { useProfile } from 'state/profile/hooks'

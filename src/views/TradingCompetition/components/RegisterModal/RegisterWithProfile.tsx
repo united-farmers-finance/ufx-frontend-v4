@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Text, Flex, Checkbox, AutoRenewIcon, useToast } from '@pancakeswap/uikit'
+import { Button, Heading, Text, Flex, Checkbox, AutoRenewIcon, useToast } from '@unitedfarmers/uikit'
 import { useTradingCompetitionContractMoD } from 'hooks/useContract'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'

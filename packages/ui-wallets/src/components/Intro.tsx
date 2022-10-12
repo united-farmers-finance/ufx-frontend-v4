@@ -1,6 +1,6 @@
 import { Trans, useTranslation } from '@unitedfarmers/localization'
-import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
-import { Button, Heading, Image, LinkExternal, Text } from '@pancakeswap/uikit'
+import { AtomBox } from '@unitedfarmers/ui/components/AtomBox'
+import { Button, Heading, Image, LinkExternal, Text } from '@unitedfarmers/uikit'
 import { useState } from 'react'
 import { getDocLink } from '../docLangCodeMapping'
 

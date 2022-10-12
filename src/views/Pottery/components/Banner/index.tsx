@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useMemo } from 'react'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import StakeToWinButton from 'views/Pottery/components/Banner/StakeToWinButton'

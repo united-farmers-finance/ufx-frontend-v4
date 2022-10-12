@@ -1,7 +1,7 @@
 import { useState, memo, ReactNode, useCallback, useEffect, useRef } from 'react'
 import styled from 'styled-components'
 import useDelayedUnmount from 'hooks/useDelayedUnmount'
-import { useMatchBreakpoints } from '@pancakeswap/uikit'
+import { useMatchBreakpoints } from '@unitedfarmers/uikit'
 
 import ExpandActionCell from './Cells/ExpandActionCell'
 

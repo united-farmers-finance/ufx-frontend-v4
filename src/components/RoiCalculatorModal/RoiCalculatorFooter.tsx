@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react'
 import styled from 'styled-components'
-import { Flex, Box, Text, ExpandableLabel, LinkExternal, Grid, HelpIcon, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Box, Text, ExpandableLabel, LinkExternal, Grid, HelpIcon, useTooltip } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { getApy } from 'utils/compoundApyHelpers'
 

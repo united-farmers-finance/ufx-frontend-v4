@@ -1,4 +1,4 @@
-import { BalanceInput, Button, Flex, Image, Slider, Text } from '@pancakeswap/uikit'
+import { BalanceInput, Button, Flex, Image, Slider, Text } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Dispatch, useMemo, memo, SetStateAction, useCallback } from 'react'

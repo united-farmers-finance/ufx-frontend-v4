@@ -1,5 +1,5 @@
 import { useState, useMemo, useContext } from 'react'
-import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@unitedfarmers/sdk'
 import {
   Button,
   Text,
@@ -12,14 +12,14 @@ import {
   AddIcon,
   TooltipText,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from '@unitedfarmers/localization'
 import useTotalSupply from 'hooks/useTotalSupply'
 import useBUSDPrice from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 import { useGetRemovedTokenAmounts } from 'views/RemoveLiquidity/RemoveStableLiquidity/hooks/useStableDerivedBurnInfo'
 import useStableConfig, { StableConfigContext } from 'views/Swap/StableSwap/hooks/useStableConfig'

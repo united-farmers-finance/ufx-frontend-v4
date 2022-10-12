@@ -1,6 +1,6 @@
 import { useCallback } from 'react'
 import { useRouter } from 'next/router'
-import { Button } from '@pancakeswap/uikit'
+import { Button } from '@unitedfarmers/uikit'
 import { useConfig } from 'views/Ifos/contexts/IfoContext'
 
 import { useTranslation } from '@unitedfarmers/localization'

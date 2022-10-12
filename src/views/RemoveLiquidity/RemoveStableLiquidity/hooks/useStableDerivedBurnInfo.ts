@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Percent, Token } from '@unitedfarmers/sdk'
 
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 

@@ -1,5 +1,5 @@
 import useSWR from 'swr'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import { fetchCProxyAddress } from 'state/farms/fetchFarmUser'
 import { farmFetcher } from '../../../../apis/farms/src/helper'
 

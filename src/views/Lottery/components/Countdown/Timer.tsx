@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Heading } from '@pancakeswap/uikit'
+import { Flex, Heading } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 
 export interface TimerProps {

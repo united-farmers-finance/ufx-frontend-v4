@@ -1,5 +1,5 @@
-import { Token } from '@pancakeswap/sdk'
-import { Flex, Message, MessageText, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Token } from '@unitedfarmers/sdk'
+import { Flex, Message, MessageText, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { memo } from 'react'
 import { useVaultApy } from 'hooks/useVaultApy'

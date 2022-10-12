@@ -11,8 +11,8 @@ import {
   Text,
   useModal,
   useToast,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { Proposal } from 'state/types'
 import { useTranslation } from '@unitedfarmers/localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'

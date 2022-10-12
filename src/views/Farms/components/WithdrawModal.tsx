@@ -1,10 +1,10 @@
 import BigNumber from 'bignumber.js'
 import { useCallback, useMemo, useState } from 'react'
-import { Button, Modal, AutoRenewIcon, Message, MessageText, Box, ModalBody } from '@pancakeswap/uikit'
+import { Button, Modal, AutoRenewIcon, Message, MessageText, Box, ModalBody } from '@unitedfarmers/uikit'
 import { ModalActions, ModalInput } from 'components/Modal'
 import { useTranslation } from '@unitedfarmers/localization'
 import { getFullDisplayBalance } from 'utils/formatBalance'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 
 interface WithdrawModalProps {

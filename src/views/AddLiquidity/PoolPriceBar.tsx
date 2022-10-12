@@ -1,5 +1,5 @@
-import { Currency, Percent, Price } from '@pancakeswap/sdk'
-import { Text } from '@pancakeswap/uikit'
+import { Currency, Percent, Price } from '@unitedfarmers/sdk'
+import { Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { ONE_BIPS } from 'config/constants/exchange'
 import { AutoColumn } from '../../components/Layout/Column'

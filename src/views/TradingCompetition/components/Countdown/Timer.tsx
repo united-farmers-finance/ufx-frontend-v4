@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Heading, Text, Link, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Heading, Text, Link, useTooltip } from '@unitedfarmers/uikit'
 import { getBlockExploreLink } from 'utils'
 import { useTranslation, ContextApi } from '@unitedfarmers/localization'
 

@@ -1,6 +1,6 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { BalanceInput, Box, Button, Flex, HelpIcon, Text, Toggle, useTooltip } from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { BalanceInput, Box, Button, Flex, HelpIcon, Text, Toggle, useTooltip } from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import BigNumber from 'bignumber.js'
 import _toNumber from 'lodash/toNumber'
 import { useEffect, useMemo, useState } from 'react'

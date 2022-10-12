@@ -1,5 +1,5 @@
-import { ChainId, Currency, Token } from '@pancakeswap/sdk'
-import { Text } from '@pancakeswap/uikit'
+import { ChainId, Currency, Token } from '@unitedfarmers/sdk'
+import { Text } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { useTranslation } from '@unitedfarmers/localization'

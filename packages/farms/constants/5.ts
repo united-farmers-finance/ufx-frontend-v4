@@ -1,4 +1,4 @@
-import { goerliTestnetTokens } from '@pancakeswap/tokens'
+import { goerliTestnetTokens } from '@unitedfarmers/tokens'
 import { SerializedFarmConfig } from '@unitedfarmers/farms'
 
 const farms: SerializedFarmConfig[] = [

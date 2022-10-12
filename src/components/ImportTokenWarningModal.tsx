@@ -1,5 +1,5 @@
-import { Token } from '@pancakeswap/sdk'
-import { Modal, Box, InjectedModalProps } from '@pancakeswap/uikit'
+import { Token } from '@unitedfarmers/sdk'
+import { Modal, Box, InjectedModalProps } from '@unitedfarmers/uikit'
 import ImportToken from 'components/SearchModal/ImportToken'
 import { useTranslation } from '@unitedfarmers/localization'
 

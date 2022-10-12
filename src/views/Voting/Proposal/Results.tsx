@@ -10,8 +10,8 @@ import {
   Skeleton,
   Tag,
   CheckmarkCircleIcon,
-} from '@pancakeswap/uikit'
-import { useWeb3React } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { Vote } from 'state/types'
 import { formatNumber } from 'utils/formatBalance'
 import { useTranslation } from '@unitedfarmers/localization'

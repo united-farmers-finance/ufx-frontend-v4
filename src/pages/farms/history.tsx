@@ -4,7 +4,7 @@ import { FarmsPageLayout, FarmsContext } from 'views/Farms'
 import FarmCard from 'views/Farms/components/FarmCard/FarmCard'
 import { getDisplayApr } from 'views/Farms/components/getDisplayApr'
 import { usePriceCakeBusd } from 'state/farms/hooks'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 
 const FarmsHistoryPage = () => {
   const { account } = useWeb3React()

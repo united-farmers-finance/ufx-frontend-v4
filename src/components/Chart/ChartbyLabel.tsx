@@ -1,4 +1,4 @@
-import { Flex, FlexProps, Link, Text, LinkProps } from '@pancakeswap/uikit'
+import { Flex, FlexProps, Link, Text, LinkProps } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 
 export const ChartByLabel = ({

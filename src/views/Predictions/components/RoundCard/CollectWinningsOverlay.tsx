@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, TrophyGoldIcon } from '@pancakeswap/uikit'
+import { Flex, TrophyGoldIcon } from '@unitedfarmers/uikit'
 import { useGetIsClaimable } from 'state/predictions/hooks'
 import { useTranslation } from '@unitedfarmers/localization'
 import CollectWinningsButton from '../CollectWinningsButton'

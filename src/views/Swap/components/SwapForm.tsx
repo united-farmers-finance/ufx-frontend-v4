@@ -1,7 +1,7 @@
 import { SetStateAction, useCallback, useEffect, useState, Dispatch, useMemo } from 'react'
 import styled from 'styled-components'
-import { Currency, CurrencyAmount, Percent } from '@pancakeswap/sdk'
-import { Button, Text, ArrowDownIcon, Box, IconButton, ArrowUpDownIcon, Skeleton } from '@pancakeswap/uikit'
+import { Currency, CurrencyAmount, Percent } from '@unitedfarmers/sdk'
+import { Button, Text, ArrowDownIcon, Box, IconButton, ArrowUpDownIcon, Skeleton } from '@unitedfarmers/uikit'
 import { useIsTransactionUnsupported } from 'hooks/Trades'
 import UnsupportedCurrencyFooter from 'components/UnsupportedCurrencyFooter'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
@@ -23,7 +23,7 @@ import { Field } from 'state/swap/actions'
 import { useDerivedSwapInfo, useSwapState } from 'state/swap/hooks'
 import { useExpertModeManager, useUserSlippageTolerance } from 'state/user/hooks'
 
-import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
+import replaceBrowserHistory from '@unitedfarmers/utils/replaceBrowserHistory'
 import { currencyId } from 'utils/currencyId'
 
 import CurrencyInputHeader from './CurrencyInputHeader'

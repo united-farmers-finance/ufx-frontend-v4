@@ -1,6 +1,6 @@
 import React, { useMemo, useCallback } from 'react'
 import BigNumber from 'bignumber.js'
-import { useWeb3React } from '@pancakeswap/wagmi'
+import { useWeb3React } from '@unitedfarmers/wagmi'
 import { getFarmApr } from 'utils/apr'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useFarms, usePriceCakeBusd, usePollFarmsWithUserData } from 'state/farms/hooks'

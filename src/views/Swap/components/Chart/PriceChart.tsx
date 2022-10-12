@@ -9,7 +9,7 @@ import {
   // TradingViewIcon,
   // LineGraphIcon,
   // useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { CurrencyLogo, DoubleCurrencyLogo } from 'components/Logo'
 // import { TradingViewLabel } from 'components/TradingView'
 // import { useTranslation } from '@unitedfarmers/localization'

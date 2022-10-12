@@ -15,13 +15,13 @@ import {
   ModalTitle,
   Spinner,
   Text,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import useTheme from 'hooks/useTheme'
 
 import { getBlockExploreLink } from 'utils'
-import truncateHash from '@pancakeswap/utils/truncateHash'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
 
 type ConfirmModalProps = {
   isLoading: boolean

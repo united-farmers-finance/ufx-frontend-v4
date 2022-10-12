@@ -1,5 +1,5 @@
 import { ReactElement, useCallback } from 'react'
-import { ChainId, Currency, Token } from '@pancakeswap/sdk'
+import { ChainId, Currency, Token } from '@unitedfarmers/sdk'
 import styled from 'styled-components'
 import {
   Button,
@@ -13,11 +13,11 @@ import {
   Modal,
   InjectedModalProps,
   ModalProps,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { wrappedCurrency } from 'utils/wrappedCurrency'
-import { WrappedTokenInfo } from '@pancakeswap/tokens'
+import { WrappedTokenInfo } from '@unitedfarmers/tokens'
 import { AutoColumn, ColumnCenter } from '../Layout/Column'
 import { getBlockExploreLink, getBlockExploreName } from '../../utils'
 import AddToWalletButton, { AddToWalletTextOptions } from '../AddToWallet/AddToWalletButton'

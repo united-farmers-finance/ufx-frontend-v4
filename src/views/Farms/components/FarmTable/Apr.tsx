@@ -3,7 +3,7 @@ import ApyButton from 'views/Farms/components/FarmCard/ApyButton'
 import BigNumber from 'bignumber.js'
 import { BASE_ADD_LIQUIDITY_URL } from 'config'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
-import { Skeleton } from '@pancakeswap/uikit'
+import { Skeleton } from '@unitedfarmers/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 
 export interface AprProps {

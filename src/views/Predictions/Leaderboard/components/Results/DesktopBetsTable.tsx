@@ -1,5 +1,5 @@
-import { Token } from '@pancakeswap/sdk'
-import { Box, Card, Text } from '@pancakeswap/uikit'
+import { Token } from '@unitedfarmers/sdk'
+import { Box, Card, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import PreviousBetsTable from '../PreviousBetsTable'
 

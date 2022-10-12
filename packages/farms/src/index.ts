@@ -1,6 +1,6 @@
 import { formatEther } from '@ethersproject/units'
 import { MultiCallV2 } from '@unitedfarmers/multicall'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import { masterChefAddresses } from './const'
 import { FarmWithPrices, getFarmsPrices } from './farmPrices'
 import { farmV2FetchFarms, FetchFarmsParams, fetchMasterChefV2Data } from './fetchFarms'

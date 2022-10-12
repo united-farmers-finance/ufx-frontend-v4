@@ -14,7 +14,7 @@ import {
   EllipsisIcon,
   LinkExternal,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { getBlockExploreLink } from 'utils'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useTranslation } from '@unitedfarmers/localization'

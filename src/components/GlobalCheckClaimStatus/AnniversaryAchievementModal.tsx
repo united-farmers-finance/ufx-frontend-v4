@@ -1,4 +1,4 @@
-import { AutoRenewIcon, Box, Button, Flex, InjectedModalProps, Modal, Text } from '@pancakeswap/uikit'
+import { AutoRenewIcon, Box, Button, Flex, InjectedModalProps, Modal, Text } from '@unitedfarmers/uikit'
 import confetti from 'canvas-confetti'
 import { useTranslation } from '@unitedfarmers/localization'
 import delay from 'lodash/delay'

@@ -1,9 +1,9 @@
 /* eslint-disable no-console */
 import { useCallback } from 'react'
 
-import { useToast } from '@pancakeswap/uikit'
+import { useToast } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
-import { MiniProgramConnector } from '@pancakeswap/wagmi/connectors/miniProgram'
+import { MiniProgramConnector } from '@unitedfarmers/wagmi/connectors/miniProgram'
 import { useConnect } from 'wagmi'
 import getWeb3Provider from 'utils/mpBridge'
 import { chains } from '../utils/wagmi'

@@ -2,7 +2,7 @@ import { useCallback, useMemo, useState, useContext } from 'react'
 import styled from 'styled-components'
 import { TransactionResponse } from '@ethersproject/providers'
 import { useRouter } from 'next/router'
-import { Currency, Percent, WNATIVE } from '@pancakeswap/sdk'
+import { Currency, Percent, WNATIVE } from '@unitedfarmers/sdk'
 import {
   useToast,
   Button,
@@ -14,7 +14,7 @@ import {
   Box,
   Flex,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { BigNumber } from '@ethersproject/bignumber'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { CommitButton } from 'components/CommitButton'

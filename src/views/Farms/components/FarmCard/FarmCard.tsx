@@ -1,5 +1,5 @@
 import { useTranslation } from '@unitedfarmers/localization'
-import { Card, Flex, Skeleton, Text } from '@pancakeswap/uikit'
+import { Card, Flex, Skeleton, Text } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import ExpandableSectionButton from 'components/ExpandableSectionButton'
 import { BASE_ADD_LIQUIDITY_URL } from 'config'

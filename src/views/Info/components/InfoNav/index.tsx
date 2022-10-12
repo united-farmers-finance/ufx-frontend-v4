@@ -7,9 +7,9 @@ import {
   UserMenuDivider,
   UserMenuItem,
   Text,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useCallback } from 'react'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@unitedfarmers/sdk'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from '@unitedfarmers/localization'
 import { useRouter } from 'next/router'
@@ -19,8 +19,8 @@ import { useMultiChainPath, useGetChainName } from 'state/info/hooks'
 import { multiChainId, multiChainPaths } from 'state/info/constant'
 import { chains } from 'utils/wagmi'
 import { ChainLogo } from 'components/Logo/ChainLogo'
-import { useWeb3React } from '@pancakeswap/wagmi'
-import { bsc, mainnet } from '@pancakeswap/wagmi/chains'
+import { useWeb3React } from '@unitedfarmers/wagmi'
+import { bsc, mainnet } from '@unitedfarmers/wagmi/chains'
 
 const NavWrapper = styled(Flex)`
   background: ${({ theme }) => theme.colors.gradientCardHeader};

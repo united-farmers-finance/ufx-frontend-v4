@@ -1,6 +1,6 @@
 import { ReactNode } from 'react'
-import { bscTokens } from '@pancakeswap/tokens'
-import { Text, Flex, Box, Skeleton, TooltipText, useTooltip } from '@pancakeswap/uikit'
+import { bscTokens } from '@unitedfarmers/tokens'
+import { Text, Flex, Box, Skeleton, TooltipText, useTooltip } from '@unitedfarmers/uikit'
 import { PublicIfoData, WalletIfoData } from 'views/Ifos/types'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Ifo, PoolIds } from 'config/constants/types'

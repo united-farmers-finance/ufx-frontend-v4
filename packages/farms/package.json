@@ -7,6 +7,6 @@
     "build": "npx tsx scripts/build.ts"
   },
   "peerDependencies": {
-    "@pancakeswap/sdk": "^3.0.0"
+    "@unitedfarmers/sdk": "^3.0.0"
   }
 }

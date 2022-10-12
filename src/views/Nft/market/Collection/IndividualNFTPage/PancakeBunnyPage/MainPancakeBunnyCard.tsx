@@ -1,5 +1,5 @@
-import { useWeb3React } from '@pancakeswap/wagmi'
-import { Flex, Box, Card, CardBody, Text, Button, BinanceIcon, Skeleton, useModal } from '@pancakeswap/uikit'
+import { useWeb3React } from '@unitedfarmers/wagmi'
+import { Flex, Box, Card, CardBody, Text, Button, BinanceIcon, Skeleton, useModal } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { formatNumber } from 'utils/formatBalance'
 import { multiplyPriceByAmount } from 'utils/prices'

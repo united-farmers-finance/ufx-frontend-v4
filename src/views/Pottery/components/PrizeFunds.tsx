@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, Text, Heading } from '@pancakeswap/uikit'
+import { Box, Flex, Text, Heading } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import Divider from 'components/Divider'
 import Image from 'next/image'

@@ -1,5 +1,5 @@
-import { WalletModalV2 } from '@pancakeswap/ui-wallets'
-import { Button, ButtonProps } from '@pancakeswap/uikit'
+import { WalletModalV2 } from '@unitedfarmers/ui-wallets'
+import { Button, ButtonProps } from '@unitedfarmers/uikit'
 import { createWallets } from 'config/wallet'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import useAuth from 'hooks/useAuth'

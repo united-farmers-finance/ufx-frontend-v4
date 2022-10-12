@@ -1,4 +1,4 @@
-import { SerializedWrappedToken } from '@pancakeswap/tokens'
+import { SerializedWrappedToken } from '@unitedfarmers/tokens'
 
 export type FarmsDynamicDataResult = {
   tokenAmountTotal: string

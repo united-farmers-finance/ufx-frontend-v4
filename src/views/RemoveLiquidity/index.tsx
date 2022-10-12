@@ -4,7 +4,7 @@ import { splitSignature } from '@ethersproject/bytes'
 import { Contract } from '@ethersproject/contracts'
 import { TransactionResponse } from '@ethersproject/providers'
 import { useRouter } from 'next/router'
-import { Currency, Percent, WNATIVE, ChainId } from '@pancakeswap/sdk'
+import { Currency, Percent, WNATIVE, ChainId } from '@unitedfarmers/sdk'
 import {
   Button,
   Text,
@@ -19,8 +19,8 @@ import {
   TooltipText,
   useTooltip,
   useToast,
-} from '@pancakeswap/uikit'
-import { useWeb3LibraryContext } from '@pancakeswap/wagmi'
+} from '@unitedfarmers/uikit'
+import { useWeb3LibraryContext } from '@unitedfarmers/wagmi'
 import { BigNumber } from '@ethersproject/bignumber'
 import { callWithEstimateGas } from 'utils/calls'
 import { getLPSymbol } from 'utils/getLpSymbol'

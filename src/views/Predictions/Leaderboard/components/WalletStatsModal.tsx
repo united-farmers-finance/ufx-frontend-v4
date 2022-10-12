@@ -13,13 +13,13 @@ import {
   Skeleton,
   Heading,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useProfileForAddress } from 'state/profile/hooks'
 import useTheme from 'hooks/useTheme'
 import styled from 'styled-components'
 import { getBlockExploreLink } from 'utils'
-import truncateHash from '@pancakeswap/utils/truncateHash'
-import { Token } from '@pancakeswap/sdk'
+import truncateHash from '@unitedfarmers/utils/truncateHash'
+import { Token } from '@unitedfarmers/sdk'
 
 import { useTranslation } from '@unitedfarmers/localization'
 import { FetchStatus } from 'config/constants/types'

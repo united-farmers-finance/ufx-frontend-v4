@@ -1,4 +1,4 @@
-import { Td, Text } from '@pancakeswap/uikit'
+import { Td, Text } from '@unitedfarmers/uikit'
 import { PredictionUser } from 'state/types'
 import ResultAvatar from './ResultAvatar'
 import { NetWinnings } from './styles'

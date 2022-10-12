@@ -1,4 +1,4 @@
-import { Flex, Box, Text, Button } from '@pancakeswap/uikit'
+import { Flex, Box, Text, Button } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import { Divider } from '../shared/styles'
 

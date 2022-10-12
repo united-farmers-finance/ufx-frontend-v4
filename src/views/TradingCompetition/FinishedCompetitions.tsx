@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex } from '@pancakeswap/uikit'
+import { Flex } from '@unitedfarmers/uikit'
 import { useTranslation } from '@unitedfarmers/localization'
 import FanTokenAllBunnies from './pngs/fan-token-all-bunnies.png'
 import MoboxAllBunnies from './pngs/mobox-all-bunnies.png'
