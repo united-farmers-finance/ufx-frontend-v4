@@ -1,7 +1,7 @@
 import { Box, Flex, Skeleton, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import { DeserializedPool, VaultKey, DeserializedPoolLockedVault } from 'state/types'

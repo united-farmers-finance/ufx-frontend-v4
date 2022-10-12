@@ -3,7 +3,7 @@ import BigNumber from 'bignumber.js'
 import { Flex, Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import { BIG_ZERO } from 'utils/bigNumber'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { LotteryRound } from 'state/types'
 import RewardBracketDetail from './RewardBracketDetail'
 

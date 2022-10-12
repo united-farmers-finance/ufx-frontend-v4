@@ -1,7 +1,7 @@
 import { Modal, Flex, Text, useToast } from '@pancakeswap/uikit'
 import { BigNumber } from '@ethersproject/bignumber'
 import { formatUnits } from '@ethersproject/units'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useCake, useProfileContract } from 'hooks/useContract'
 import useApproveConfirmTransaction from 'hooks/useApproveConfirmTransaction'
 import { useProfile } from 'state/profile/hooks'

@@ -1,7 +1,7 @@
 import { ModalProvider, light, dark, UIKitProvider } from '@pancakeswap/uikit'
 import { Provider } from 'react-redux'
 import { SWRConfig } from 'swr'
-import { LanguageProvider } from '@pancakeswap/localization'
+import { LanguageProvider } from '@unitedfarmers/localization'
 import { fetchStatusMiddleware } from 'hooks/useSWRContract'
 import { Store } from '@reduxjs/toolkit'
 import { ThemeProvider as NextThemeProvider, useTheme as useNextTheme } from 'next-themes'

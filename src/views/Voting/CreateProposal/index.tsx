@@ -23,7 +23,7 @@ import { SnapshotCommand } from 'state/types'
 
 import { getBlockExploreLink } from 'utils'
 import truncateHash from '@pancakeswap/utils/truncateHash'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import Container from 'components/Layout/Container'
 import { DatePicker, TimePicker, DatePickerPortal } from 'views/Voting/components/DatePicker'
 import ConnectWalletButton from 'components/ConnectWalletButton'

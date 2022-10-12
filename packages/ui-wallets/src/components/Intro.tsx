@@ -1,4 +1,4 @@
-import { Trans, useTranslation } from '@pancakeswap/localization'
+import { Trans, useTranslation } from '@unitedfarmers/localization'
 import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
 import { Button, Heading, Image, LinkExternal, Text } from '@pancakeswap/uikit'
 import { useState } from 'react'

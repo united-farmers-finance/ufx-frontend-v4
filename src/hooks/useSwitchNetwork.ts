@@ -1,5 +1,5 @@
 /* eslint-disable consistent-return */
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { ChainId } from '@pancakeswap/sdk'
 import { useToast } from '@pancakeswap/uikit'
 import { useCallback, useMemo } from 'react'

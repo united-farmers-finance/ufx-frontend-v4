@@ -1,6 +1,6 @@
 import { ErrorBoundary as SErrorBoundary } from '@sentry/nextjs'
 import Page from 'components/Layout/Page'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Button, Text, LogoIcon, Flex, IconButton, CopyIcon } from '@pancakeswap/uikit'
 import { copyText } from '@pancakeswap/utils/copyText'
 import { useCallback } from 'react'

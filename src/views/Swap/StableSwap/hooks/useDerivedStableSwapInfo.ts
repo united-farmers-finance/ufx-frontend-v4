@@ -1,6 +1,6 @@
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Currency, CurrencyAmount } from '@pancakeswap/sdk'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { isAddress } from 'utils'
 
 import tryParseAmount from '@pancakeswap/utils/tryParseAmount'

@@ -1,7 +1,7 @@
 import { ButtonMenu, ButtonMenuItem } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import useTheme from 'hooks/useTheme'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { POT_CATEGORY } from '../../types'
 
 const Wrapper = styled.div`

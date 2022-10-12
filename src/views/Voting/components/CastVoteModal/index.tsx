@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Box, Modal, useToast } from '@pancakeswap/uikit'
 import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { SnapshotCommand } from 'state/types'
 import useTheme from 'hooks/useTheme'
 import { CastVoteModalProps, ConfirmVoteView } from './types'

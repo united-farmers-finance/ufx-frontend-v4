@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Text, Spinner } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { AutoColumn, ColumnCenter } from 'components/Layout/Column'
 import { Trade, Currency, TradeType } from '@pancakeswap/sdk'
 import { StableTrade } from '../StableSwap/hooks/useStableTradeExactIn'

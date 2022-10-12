@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react'
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Spinner, RowType } from '@pancakeswap/uikit'
 import TableHeader from './MigrationTable/TableHeader'
 import EmptyText from './MigrationTable/EmptyText'

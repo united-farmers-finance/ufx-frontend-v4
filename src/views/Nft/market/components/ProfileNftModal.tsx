@@ -2,7 +2,7 @@ import { InjectedModalProps, Modal, Flex, Text, Button, useModal, Link, Grid, Li
 import useTheme from 'hooks/useTheme'
 import styled from 'styled-components'
 import { NftToken } from 'state/nftMarket/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getBscScanLinkForNft, isAddress } from 'utils'
 import { HorizontalDivider, RoundedImage } from './BuySellModals/shared/styles'
 import EditProfileModal from '../../../Profile/components/EditProfileModal'

@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useFarmUser } from 'state/farms/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Text, Skeleton, Flex } from '@pancakeswap/uikit'
 import { Token } from '@pancakeswap/sdk'
 import { getBalanceNumber } from 'utils/formatBalance'

@@ -1,5 +1,5 @@
 import { Text } from '@pancakeswap/uikit'
-import { ContextApi } from '@pancakeswap/localization'
+import { ContextApi } from '@unitedfarmers/localization'
 
 type FAQsType = {
   t: ContextApi['t']

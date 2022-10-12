@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Text, ChevronDownIcon } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import BaseCell from 'views/Pools/components/PoolsTable/Cells/BaseCell'
 
 interface ExpandActionCellProps {

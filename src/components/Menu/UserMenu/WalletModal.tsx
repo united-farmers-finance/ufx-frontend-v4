@@ -13,7 +13,7 @@ import {
 } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useState } from 'react'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
 import { useBalance } from 'wagmi'
 import WalletInfo from './WalletInfo'

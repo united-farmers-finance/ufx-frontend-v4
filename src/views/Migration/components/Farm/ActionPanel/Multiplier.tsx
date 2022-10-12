@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Text, HelpIcon, useTooltip } from '@pancakeswap/uikit'
 import { MultiplierProps } from '../Cells/Multiplier'
 

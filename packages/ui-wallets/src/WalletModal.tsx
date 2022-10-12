@@ -1,5 +1,5 @@
 import { usePreloadImages } from '@unitedfarmers/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { AtomBox } from '@pancakeswap/ui/components/AtomBox'
 import {
   Button,

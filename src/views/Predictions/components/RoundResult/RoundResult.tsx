@@ -1,6 +1,6 @@
 import { BoxProps, Text } from '@pancakeswap/uikit'
 import { NodeRound } from 'state/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getRoundPosition } from '../../helpers'
 import { LockPriceRow, PrizePoolRow, RoundPrice, RoundResultBox } from './styles'
 

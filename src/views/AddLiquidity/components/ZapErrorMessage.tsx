@@ -1,6 +1,6 @@
 import { memo } from 'react'
 import { Message, MessageText, Button, Box, Flex, useToast } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 
 interface ZapErrorMessagesProps {
   isSingleToken: boolean

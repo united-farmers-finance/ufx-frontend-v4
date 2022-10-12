@@ -4,7 +4,7 @@ import { getBlockExploreLink } from 'utils'
 import { DeserializedPool } from 'state/types'
 import { useCurrentBlock } from 'state/block/hooks'
 import Balance from 'components/Balance'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getPoolBlockInfo } from 'views/Pools/helpers'
 import BaseCell, { CellContent } from './BaseCell'
 

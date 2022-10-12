@@ -1,7 +1,7 @@
 import { Currency, JSBI } from '@pancakeswap/sdk'
 import { AddIcon, Button, ChevronDownIcon, Text, useModal } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 import useNativeCurrency from 'hooks/useNativeCurrency'

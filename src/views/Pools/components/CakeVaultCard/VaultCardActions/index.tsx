@@ -2,7 +2,7 @@ import BigNumber from 'bignumber.js'
 
 import styled from 'styled-components'
 import { Flex, Text, Box } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { DeserializedPool } from 'state/types'
 import { BIG_ZERO } from 'utils/bigNumber'
 import VaultApprovalAction from './VaultApprovalAction'

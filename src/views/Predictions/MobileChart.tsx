@@ -6,7 +6,7 @@ import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'
 import dynamic from 'next/dynamic'
 import { PredictionsChartView } from 'state/types'
 import { TabToggleGroup, TabToggle } from 'components/TabToggle'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import Menu from './components/Menu'
 import TradingView from './components/TradingView'
 

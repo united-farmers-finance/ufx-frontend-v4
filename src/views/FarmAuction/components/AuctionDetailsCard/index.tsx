@@ -13,7 +13,7 @@ import {
   CheckmarkCircleIcon,
   useModal,
 } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Auction, AuctionStatus, ConnectedBidder } from 'config/constants/types'
 import { getBalanceNumber } from 'utils/formatBalance'
 import PlaceBidModal from '../PlaceBidModal'

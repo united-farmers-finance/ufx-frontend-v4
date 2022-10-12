@@ -17,7 +17,7 @@ import {
   TeamPlayerIcon,
   TrophyGoldIcon,
 } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Td, BoldTd, StyledPrizeTable } from '../../../../components/StyledPrizeTable'
 
 const COLOR_GOLD = '#FFBF33'

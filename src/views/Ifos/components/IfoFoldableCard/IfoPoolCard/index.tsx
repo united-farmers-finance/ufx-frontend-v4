@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import styled from 'styled-components'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { useTranslation, ContextApi } from '@pancakeswap/localization'
+import { useTranslation, ContextApi } from '@unitedfarmers/localization'
 import { Box, Card, CardBody, CardHeader, Flex, HelpIcon, Text, useTooltip } from '@pancakeswap/uikit'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { useProfile } from 'state/profile/hooks'

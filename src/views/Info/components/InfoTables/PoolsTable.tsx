@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { ArrowBackIcon, ArrowForwardIcon, Box, Flex, Skeleton, Text } from '@pancakeswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { ITEMS_PER_INFO_TABLE_PAGE } from 'config/constants/info'

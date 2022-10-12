@@ -3,7 +3,7 @@ import { getVaultPosition, VaultPosition } from 'utils/cakePool'
 
 import { Flex, Text, Box, TooltipText, useTooltip, HelpIcon } from '@pancakeswap/uikit'
 import { LightGreyCard } from 'components/Card'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useVaultApy } from 'hooks/useVaultApy'
 import { BalanceWithLoading } from 'components/Balance'
 import Divider from 'components/Divider'

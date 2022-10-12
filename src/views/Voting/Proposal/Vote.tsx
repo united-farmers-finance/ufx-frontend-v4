@@ -14,7 +14,7 @@ import {
 } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Proposal } from 'state/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import CastVoteModal from '../components/CastVoteModal'
 

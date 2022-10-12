@@ -1,6 +1,6 @@
 import { useContext, useState } from 'react'
 
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { CalculateIcon, Flex, IconButton, Text, TooltipText, useModal, useTooltip } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import _toNumber from 'lodash/toNumber'

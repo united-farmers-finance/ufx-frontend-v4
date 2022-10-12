@@ -1,6 +1,6 @@
 import { NextLinkFromReactRouter as ReactRouterLink } from 'components/NextLink'
 import { BscScanIcon, Flex, IconButton, Link, Button, useModal } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getBlockExploreLink } from 'utils'
 import { formatNumber } from 'utils/formatBalance'
 import truncateHash from '@pancakeswap/utils/truncateHash'

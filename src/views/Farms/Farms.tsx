@@ -13,7 +13,7 @@ import { useFarms, usePollFarmsWithUserData, usePriceCakeBusd } from 'state/farm
 import { useCakeVaultUserData } from 'state/pools/hooks'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'
 import { DeserializedFarm } from 'state/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getFarmApr } from 'utils/apr'
 import orderBy from 'lodash/orderBy'
 import { latinise } from 'utils/latinise'

@@ -1,4 +1,4 @@
-import { useTranslation, ContextData, TranslationKey } from '@pancakeswap/localization'
+import { useTranslation, ContextData, TranslationKey } from '@unitedfarmers/localization'
 
 export interface TransProps extends ContextData {
   children: TranslationKey

@@ -1,7 +1,7 @@
 import { Link, Text } from '@pancakeswap/uikit'
 import { getBlockExploreLink, getBlockExploreName } from 'utils'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import truncateHash from '@pancakeswap/utils/truncateHash'
 
 interface DescriptionWithTxProps {

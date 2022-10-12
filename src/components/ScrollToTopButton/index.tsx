@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import styled from 'styled-components'
 import { Button, ChevronUpIcon } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import throttle from 'lodash/throttle'
 
 const FixedContainer = styled.div`

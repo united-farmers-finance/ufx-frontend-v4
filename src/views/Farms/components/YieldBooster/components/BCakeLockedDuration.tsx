@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Box, Button, Flex, Input, Message, MessageText, Text } from '@pancakeswap/uikit'
 import { MAX_LOCK_DURATION } from 'config/constants/pools'
 import _toNumber from 'lodash/toNumber'

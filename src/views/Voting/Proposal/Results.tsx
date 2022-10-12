@@ -14,7 +14,7 @@ import {
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Vote } from 'state/types'
 import { formatNumber } from 'utils/formatBalance'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { FetchStatus } from 'config/constants/types'
 import { calculateVoteResults, getTotalFromVotes } from '../helpers'
 import TextEllipsis from '../components/TextEllipsis'

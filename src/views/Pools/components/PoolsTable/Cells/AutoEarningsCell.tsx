@@ -3,7 +3,7 @@ import { Skeleton, Text, useTooltip, HelpIcon, Flex, Box, useMatchBreakpoints } 
 import { DeserializedPool, VaultKey, DeserializedPoolLockedVault } from 'state/types'
 import Balance from 'components/Balance'
 import { useVaultPoolByKey } from 'state/pools/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getCakeVaultEarnings } from 'views/Pools/helpers'
 import BaseCell, { CellContent } from './BaseCell'
 import AutoEarningsBreakdown from '../../AutoEarningsBreakdown'

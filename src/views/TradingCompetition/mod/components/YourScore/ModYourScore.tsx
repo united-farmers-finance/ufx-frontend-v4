@@ -1,6 +1,6 @@
 import { Skeleton, Heading, Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import ScoreHeader from '../../../components/YourScore/ScoreHeader'
 import RibbonWithImage from '../../../components/RibbonWithImage'
 import { UserLeaderboardSharedInformation, CompetitionProps } from '../../../types'

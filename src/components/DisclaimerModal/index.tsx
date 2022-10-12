@@ -12,7 +12,7 @@ import {
   Heading,
   Box,
 } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import styled from 'styled-components'
 
 interface CheckType {

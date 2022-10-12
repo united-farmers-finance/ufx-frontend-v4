@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { useMemo } from 'react'
 import { Flex, Box, Text } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import StakeToWinButton from 'views/Pottery/components/Banner/StakeToWinButton'
 import { BannerTimer, LockTimer } from 'views/Pottery/components/Timer'

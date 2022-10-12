@@ -1,7 +1,7 @@
 import { Obj } from 'itty-router'
 import { error } from 'itty-router-extras'
 import { createFarmFetcher } from '@unitedfarmers/farms'
-import { createMulticall } from '@pancakeswap/multicall'
+import { createMulticall } from '@unitedfarmers/multicall'
 import { bscProvider, bscTestnetProvider, goerliProvider } from './provider'
 
 export const getProvider = ({ chainId }: { chainId?: number }) => {

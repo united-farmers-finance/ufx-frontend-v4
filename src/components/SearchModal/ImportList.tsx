@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Button, Checkbox, Flex, Link, Message, Text } from '@pancakeswap/uikit'
 import { TokenList } from '@uniswap/token-lists'
 import Card from 'components/Card'

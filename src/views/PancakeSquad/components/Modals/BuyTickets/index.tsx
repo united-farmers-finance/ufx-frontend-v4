@@ -15,7 +15,7 @@ import {
   ModalTitle,
   Text,
 } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import useTheme from 'hooks/useTheme'
 import { useState } from 'react'
 import { formatBigNumber } from 'utils/formatBalance'

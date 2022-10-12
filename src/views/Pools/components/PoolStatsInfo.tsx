@@ -2,7 +2,7 @@ import { Flex, Link, LinkExternal, Skeleton, Text, TimerIcon } from '@pancakeswa
 import Balance from 'components/Balance'
 import AddToWalletButton, { AddToWalletTextOptions } from 'components/AddToWallet/AddToWalletButton'
 import { bsc } from '@pancakeswap/wagmi/chains'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { memo } from 'react'
 import { useCurrentBlock } from 'state/block/hooks'
 import { useVaultPoolByKey } from 'state/pools/hooks'

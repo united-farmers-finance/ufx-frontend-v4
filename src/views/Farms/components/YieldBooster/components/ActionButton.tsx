@@ -13,7 +13,7 @@ import {
 import _isEmpty from 'lodash/isEmpty'
 import { ReactNode } from 'react'
 import styled from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 
 const Container = styled.div`
   margin-right: 4px;

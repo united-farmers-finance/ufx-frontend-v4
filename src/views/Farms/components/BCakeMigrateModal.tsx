@@ -1,5 +1,5 @@
 import { Contract } from '@ethersproject/contracts'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import {
   AutoRenewIcon,
   Box,

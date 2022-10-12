@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import styled from 'styled-components'
 import { Text, Heading, Card, CardHeader, CardBody, Flex, Image } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import FoldableText from 'components/FoldableSection/FoldableText'
 import config from './config'
 

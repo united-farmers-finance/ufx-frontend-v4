@@ -21,7 +21,7 @@ import { getBlockExploreLink } from 'utils'
 import truncateHash from '@pancakeswap/utils/truncateHash'
 import { Token } from '@pancakeswap/sdk'
 
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { FetchStatus } from 'config/constants/types'
 import { PredictionUser } from 'state/types'
 import { NetWinningsView } from './Results/styles'

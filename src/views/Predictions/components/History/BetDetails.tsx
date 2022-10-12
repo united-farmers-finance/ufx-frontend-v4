@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Bet } from 'state/types'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getBlockExploreLink } from 'utils'
 import { Flex, Text, Link, Heading } from '@pancakeswap/uikit'
 import { Result } from 'state/predictions/helpers'

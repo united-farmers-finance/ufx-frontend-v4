@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Text, Skeleton, AccountFilledIcon } from '@pancakeswap/uikit'
 import { StyledVolumeText, PodiumProps, RightBox, MiddleBox, LeftBox, Wrapper, Inner, StyledVolumeFlex } from './styles'
 import TeamPodiumIcon from './TeamPodiumIcon'

@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import NoWalletConnected from './WalletNotConnected'
 import { ProfileCreationContext } from './contexts/ProfileCreationProvider'

@@ -1,5 +1,5 @@
 import { TransactionResponse } from '@ethersproject/providers'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Button, Heading, Skeleton, Text, TooltipText, useToast, useTooltip, useModal } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'

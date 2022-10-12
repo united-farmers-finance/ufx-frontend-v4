@@ -1,5 +1,5 @@
 import { parseUnits } from '@ethersproject/units'
-import { Call, MultiCallV2 } from '@pancakeswap/multicall'
+import { Call, MultiCallV2 } from '@unitedfarmers/multicall'
 import { ChainId } from '@pancakeswap/sdk'
 import chunk from 'lodash/chunk'
 import { SerializedStableFarmConfig } from './types'

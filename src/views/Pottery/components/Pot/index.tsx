@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { useState, useCallback } from 'react'
 import { Flex, Box, Card, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { getBalanceNumber } from 'utils/formatBalance'
 import Balance from 'components/Balance'

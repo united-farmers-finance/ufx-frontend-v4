@@ -1,4 +1,4 @@
-import { multicallAddresses } from '@pancakeswap/multicall'
+import { multicallAddresses } from '@unitedfarmers/multicall'
 
 export default {
   masterChef: {

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Text, Flex, Checkbox, Button } from '@pancakeswap/uikit'
 
 interface AcknowledgementProps {

@@ -1,6 +1,6 @@
 import { BigNumber, FixedNumber } from '@ethersproject/bignumber'
 import { formatUnits } from '@ethersproject/units'
-import { MultiCallV2 } from '@pancakeswap/multicall'
+import { MultiCallV2 } from '@unitedfarmers/multicall'
 import { ChainId } from '@pancakeswap/sdk'
 import { FIXED_TWO, FIXED_ZERO } from './const'
 import { getFarmsPrices } from './farmPrices'

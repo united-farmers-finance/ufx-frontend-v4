@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Box, Button, Flex, IconButton, CloseIcon } from '@pancakeswap/uikit'
-import { ContextApi, useTranslation } from '@pancakeswap/localization'
+import { ContextApi, useTranslation } from '@unitedfarmers/localization'
 import { MarketEvent } from '../../../../state/nftMarket/types'
 import { useNftStorage } from '../../../../state/nftMarket/storage'
 

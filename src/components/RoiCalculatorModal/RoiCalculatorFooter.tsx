@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react'
 import styled from 'styled-components'
 import { Flex, Box, Text, ExpandableLabel, LinkExternal, Grid, HelpIcon, useTooltip } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getApy } from 'utils/compoundApyHelpers'
 
 const Footer = styled(Flex)`

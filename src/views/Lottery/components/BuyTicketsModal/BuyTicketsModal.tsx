@@ -1,5 +1,5 @@
 import { MaxUint256 } from '@ethersproject/constants'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { bscTokens } from '@pancakeswap/tokens'
 import {
   ArrowForwardIcon,

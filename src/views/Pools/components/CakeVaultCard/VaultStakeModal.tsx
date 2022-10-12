@@ -16,7 +16,7 @@ import {
   useToast,
 } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useAppDispatch } from 'state'
 
 import { usePriceCakeBusd } from 'state/farms/hooks'

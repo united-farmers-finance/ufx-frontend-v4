@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Text, Link } from '@pancakeswap/uikit'
 
 const CcarWarning = () => {

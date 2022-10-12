@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { ChainId } from '@pancakeswap/sdk'
 import { SubMenuItems } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'

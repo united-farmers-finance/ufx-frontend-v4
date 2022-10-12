@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Text, BunnyPlaceholderIcon } from '@pancakeswap/uikit'
 import { MessageTextLink } from '../IfoCardStyles'
 

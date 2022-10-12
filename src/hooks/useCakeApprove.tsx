@@ -1,5 +1,5 @@
 import { MaxUint256 } from '@ethersproject/constants'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useCake } from 'hooks/useContract'
 import { useToast } from '@pancakeswap/uikit'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'

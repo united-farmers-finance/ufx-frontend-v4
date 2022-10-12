@@ -11,7 +11,7 @@ import {
 } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import orderBy from 'lodash/orderBy'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Vote } from 'state/types'
 import { FetchStatus } from 'config/constants/types'
 import VotesLoading from '../components/Proposal/VotesLoading'

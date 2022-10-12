@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Button, ButtonProps, useToast } from '@pancakeswap/uikit'
 import { memo, useCallback } from 'react'
 

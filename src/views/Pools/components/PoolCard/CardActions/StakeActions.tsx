@@ -1,6 +1,6 @@
 import { Flex, Text, Button, IconButton, AddIcon, MinusIcon, useModal, Skeleton, useTooltip } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { DeserializedPool } from 'state/types'
 import Balance from 'components/Balance'

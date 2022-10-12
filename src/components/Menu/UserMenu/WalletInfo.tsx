@@ -2,7 +2,7 @@ import { Box, Button, Flex, InjectedModalProps, LinkExternal, Message, Skeleton,
 import { ChainId } from '@pancakeswap/sdk'
 import { FetchStatus } from 'config/constants/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import useAuth from 'hooks/useAuth'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { useGetCakeBalance } from 'hooks/useTokenBalance'

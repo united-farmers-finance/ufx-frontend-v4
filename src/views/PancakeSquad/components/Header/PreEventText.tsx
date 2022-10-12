@@ -1,4 +1,4 @@
-import { ContextApi } from '@pancakeswap/localization'
+import { ContextApi } from '@unitedfarmers/localization'
 import { Text } from '@pancakeswap/uikit'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 

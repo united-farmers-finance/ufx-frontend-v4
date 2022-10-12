@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Button, Text, useModal } from '@pancakeswap/uikit'
 import { Currency, CurrencyAmount, Trade, TradeType } from '@pancakeswap/sdk'
 

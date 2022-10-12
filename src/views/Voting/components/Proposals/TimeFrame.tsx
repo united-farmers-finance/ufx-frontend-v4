@@ -1,6 +1,6 @@
 import { Text } from '@pancakeswap/uikit'
 import { toDate, format } from 'date-fns'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { ProposalState } from 'state/types'
 
 interface TimeFrameProps {

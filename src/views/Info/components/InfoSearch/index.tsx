@@ -1,4 +1,4 @@
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Input, Skeleton, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
 import { MINIMUM_SEARCH_CHARACTERS } from 'config/constants/info'
 import useDebounce from 'hooks/useDebounce'

@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Flex, Box, Text } from '@pancakeswap/uikit'
 import Balance from 'components/Balance'
 import { usePriceCakeBusd } from 'state/farms/hooks'

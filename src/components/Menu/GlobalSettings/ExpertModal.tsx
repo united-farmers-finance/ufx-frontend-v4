@@ -10,7 +10,7 @@ import {
   useMatchBreakpoints,
 } from '@pancakeswap/uikit'
 import { useExpertModeManager } from 'state/user/hooks'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 
 interface ExpertModalProps extends InjectedModalProps {
   setShowConfirmExpertModal: (boolean) => void

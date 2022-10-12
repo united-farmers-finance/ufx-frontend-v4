@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { LinkStatus } from '@pancakeswap/uikit/src/widgets/Menu/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTheme } from 'styled-components'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { useMenuItemsStatus } from './useMenuItemsStatus'
 import config, { ConfigMenuItemsType } from '../config/config'
 

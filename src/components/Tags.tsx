@@ -12,7 +12,7 @@ import {
   VerifiedIcon,
   VoteIcon,
 } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { memo } from 'react'
 
 const CoreTag: React.FC<React.PropsWithChildren<TagProps>> = (props) => {

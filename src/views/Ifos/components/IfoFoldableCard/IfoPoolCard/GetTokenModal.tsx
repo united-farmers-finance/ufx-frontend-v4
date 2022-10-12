@@ -1,6 +1,6 @@
 import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@pancakeswap/uikit'
 import { Token } from '@pancakeswap/sdk'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 
 interface Props {
   currency: Token

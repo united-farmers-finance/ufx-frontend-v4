@@ -16,7 +16,7 @@ import {
 import styled from 'styled-components'
 import { usePreviousValue } from '@unitedfarmers/hooks'
 import { TokenList } from '@uniswap/token-lists'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import CurrencySearch from './CurrencySearch'
 import ImportToken from './ImportToken'
 import Manage from './Manage'

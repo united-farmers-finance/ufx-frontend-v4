@@ -3,7 +3,7 @@ import { useWeb3React } from '@pancakeswap/wagmi'
 import styled from 'styled-components'
 import { useProfile } from 'state/profile/hooks'
 import ProfileAvatarWithTeam from 'components/ProfileAvatarWithTeam'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import truncateHash from '@pancakeswap/utils/truncateHash'
 
 const Desktop = styled(Flex)`

@@ -1,5 +1,5 @@
 import { parseUnits } from '@ethersproject/units'
-import { ContextApi, useTranslation } from '@pancakeswap/localization'
+import { ContextApi, useTranslation } from '@unitedfarmers/localization'
 import { InjectedModalProps, useToast } from '@pancakeswap/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'

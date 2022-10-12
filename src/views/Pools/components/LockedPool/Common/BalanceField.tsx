@@ -1,6 +1,6 @@
 import { BalanceInput, Button, Flex, Image, Slider, Text } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { Dispatch, useMemo, memo, SetStateAction, useCallback } from 'react'
 import styled from 'styled-components'
 import { getFullDisplayBalance } from 'utils/formatBalance'

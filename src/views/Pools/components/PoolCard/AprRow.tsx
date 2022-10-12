@@ -1,5 +1,5 @@
 import { Flex, TooltipText, useTooltip } from '@pancakeswap/uikit'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { DeserializedPool } from 'state/types'
 import BigNumber from 'bignumber.js'
 import Apr from 'views/Pools/components/Apr'

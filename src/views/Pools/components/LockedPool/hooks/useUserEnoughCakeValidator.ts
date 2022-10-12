@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { getBalanceAmount } from 'utils/formatBalance'
 
 import { useMemo } from 'react'

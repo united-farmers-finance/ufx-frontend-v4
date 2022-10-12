@@ -4,7 +4,7 @@ import { CurrencyAmount, Token, Trade, TradeType, Currency, Percent } from '@pan
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
 import { Button, Box, Flex, useModal, BottomDrawer, Link, useMatchBreakpoints } from '@pancakeswap/uikit'
 
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import { AutoColumn } from 'components/Layout/Column'
 import CurrencyInputPanel from 'components/CurrencyInputPanel'
 import { AppBody } from 'components/App'

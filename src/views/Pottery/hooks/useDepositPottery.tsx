@@ -1,6 +1,6 @@
 import { useCallback } from 'react'
 import { useAppDispatch } from 'state'
-import { useTranslation } from '@pancakeswap/localization'
+import { useTranslation } from '@unitedfarmers/localization'
 import BigNumber from 'bignumber.js'
 import { useToast } from '@pancakeswap/uikit'
 import useCatchTxError from 'hooks/useCatchTxError'
