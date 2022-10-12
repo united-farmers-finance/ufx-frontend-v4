@@ -1,4 +1,4 @@
-import { Box, CardBody, CardProps, Flex, Text, TokenPairImage, Skeleton } from '@pancakeswap/uikit'
+import { Box, CardBody, CardProps, Flex, Text, TokenPairImage, Skeleton } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { FlexGap } from 'components/Layout/Flex'

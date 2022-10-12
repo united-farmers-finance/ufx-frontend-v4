@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Table, Th, Text } from '@pancakeswap/uikit'
+import { Table, Th, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import FullRow from './FullRow'
 

@@ -1,7 +1,7 @@
 import { useMemo, memo } from 'react'
 import { getVaultPosition, VaultPosition } from 'utils/cakePool'
 
-import { Flex, Text, Box, TooltipText, useTooltip, HelpIcon } from '@pancakeswap/uikit'
+import { Flex, Text, Box, TooltipText, useTooltip, HelpIcon } from '@unitedfarmers/uikit'
 import { LightGreyCard } from 'components/Card'
 import { useTranslation } from '@pancakeswap/localization'
 import { useVaultApy } from 'hooks/useVaultApy'

@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { AutoRenewIcon, Button, Flex, useToast } from '@pancakeswap/uikit'
+import { AutoRenewIcon, Button, Flex, useToast } from '@unitedfarmers/uikit'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'
 import useCatchTxError from 'hooks/useCatchTxError'

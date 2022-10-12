@@ -1,6 +1,6 @@
 import { useTranslation } from '@pancakeswap/localization'
 import { ChainId } from '@pancakeswap/sdk'
-import { useModal, useToast } from '@pancakeswap/uikit'
+import { useModal, useToast } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { useAnniversaryAchievementContract } from 'hooks/useContract'

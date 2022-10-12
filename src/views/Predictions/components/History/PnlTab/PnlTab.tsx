@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useWeb3React } from '@pancakeswap/wagmi'
-import { Box, Flex, Heading, Text, Button, Link, OpenNewIcon } from '@pancakeswap/uikit'
+import { Box, Flex, Heading, Text, Button, Link, OpenNewIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { getRoundResult, Result } from 'state/predictions/helpers'
 import { REWARD_RATE } from 'state/predictions/config'

@@ -1,4 +1,4 @@
-import { NoProfileAvatarIcon, Flex, Heading, Skeleton, Text, Box, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { NoProfileAvatarIcon, Flex, Heading, Skeleton, Text, Box, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import styled from 'styled-components'
 import { useProfile } from 'state/profile/hooks'

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import styled from 'styled-components'
 import useTheme from 'hooks/useTheme'
-import { ButtonMenu, ButtonMenuItem } from '@pancakeswap/uikit'
+import { ButtonMenu, ButtonMenuItem } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
 

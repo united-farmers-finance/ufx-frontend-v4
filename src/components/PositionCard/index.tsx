@@ -12,7 +12,7 @@ import {
   AddIcon,
   TooltipText,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from '@pancakeswap/localization'

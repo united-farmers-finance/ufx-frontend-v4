@@ -10,7 +10,7 @@ import {
   Modal,
   Text,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useEffect, useMemo, useRef } from 'react'
 import styled from 'styled-components'

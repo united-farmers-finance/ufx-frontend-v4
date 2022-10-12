@@ -6,7 +6,7 @@
     "*.css.ts"
   ],
   "dependencies": {
-    "@pancakeswap/uikit": "*",
+    "@unitedfarmers/uikit": "*",
     "qrcode.react": "^3.1.0"
   }
 }

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, ChevronDownIcon } from '@pancakeswap/uikit'
+import { Text, ChevronDownIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import BaseCell from './BaseCell'
 

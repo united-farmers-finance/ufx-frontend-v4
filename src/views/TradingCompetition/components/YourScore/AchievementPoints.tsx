@@ -1,4 +1,4 @@
-import { Text, Flex, Image } from '@pancakeswap/uikit'
+import { Text, Flex, Image } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 
 interface AchievementPointsProps {

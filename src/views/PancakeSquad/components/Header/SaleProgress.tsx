@@ -1,4 +1,4 @@
-import { Box, lightColors, Progress, Text } from '@pancakeswap/uikit'
+import { Box, lightColors, Progress, Text } from '@unitedfarmers/uikit'
 import { ContextApi } from '@pancakeswap/localization'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 

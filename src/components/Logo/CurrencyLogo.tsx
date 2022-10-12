@@ -1,5 +1,5 @@
 import { ChainId, Currency } from '@pancakeswap/sdk'
-import { BinanceIcon } from '@pancakeswap/uikit'
+import { BinanceIcon } from '@unitedfarmers/uikit'
 import { useMemo } from 'react'
 import { WrappedTokenInfo } from '@pancakeswap/tokens'
 import styled from 'styled-components'

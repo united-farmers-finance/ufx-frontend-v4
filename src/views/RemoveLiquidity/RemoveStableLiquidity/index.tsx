@@ -14,7 +14,7 @@ import {
   Box,
   Flex,
   useModal,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { BigNumber } from '@ethersproject/bignumber'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { CommitButton } from 'components/CommitButton'

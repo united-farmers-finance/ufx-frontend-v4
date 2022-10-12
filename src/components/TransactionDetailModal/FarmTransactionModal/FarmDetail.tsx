@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Box, Text, LinkExternal, RefreshIcon, WarningIcon } from '@pancakeswap/uikit'
+import { Flex, Box, Text, LinkExternal, RefreshIcon, WarningIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { chains } from 'utils/wagmi'
 import { ChainLogo } from 'components/Logo/ChainLogo'

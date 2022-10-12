@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Token, Currency, ChainId } from '@pancakeswap/sdk'
-import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@pancakeswap/uikit'
+import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@unitedfarmers/uikit'
 import { AutoColumn } from 'components/Layout/Column'
 import { useAddUserToken } from 'state/user/hooks'
 import { getBlockExploreLink, getBlockExploreName } from 'utils'

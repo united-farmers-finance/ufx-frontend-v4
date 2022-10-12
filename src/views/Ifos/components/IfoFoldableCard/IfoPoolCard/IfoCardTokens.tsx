@@ -13,7 +13,7 @@ import {
   Message,
   MessageText,
   ErrorIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Token } from '@pancakeswap/sdk'
 import { Ifo, PoolIds } from 'config/constants/types'

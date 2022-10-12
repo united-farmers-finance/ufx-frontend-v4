@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useMemo } from 'react'
-import { Flex, Text, Skeleton } from '@pancakeswap/uikit'
+import { Flex, Text, Skeleton } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { format } from 'date-fns'
 import { useTranslation } from '@pancakeswap/localization'

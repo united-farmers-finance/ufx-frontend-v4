@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Button } from '@pancakeswap/uikit'
+import { Button } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { Ifo, PoolIds } from 'config/constants/types'

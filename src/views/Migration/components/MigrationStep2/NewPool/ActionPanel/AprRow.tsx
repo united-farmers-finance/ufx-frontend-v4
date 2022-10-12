@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Flex } from '@pancakeswap/uikit'
+import { Text, Flex } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from 'utils/bigNumber'

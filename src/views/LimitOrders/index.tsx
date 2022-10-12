@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState, useMemo } from 'react'
 import { useRouter } from 'next/router'
 import { CurrencyAmount, Token, Trade, TradeType, Currency, Percent } from '@pancakeswap/sdk'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
-import { Button, Box, Flex, useModal, BottomDrawer, Link, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Button, Box, Flex, useModal, BottomDrawer, Link, useMatchBreakpoints } from '@unitedfarmers/uikit'
 
 import { useTranslation } from '@pancakeswap/localization'
 import { AutoColumn } from 'components/Layout/Column'

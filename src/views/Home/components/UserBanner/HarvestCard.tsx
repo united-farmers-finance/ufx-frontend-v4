@@ -9,7 +9,7 @@ import {
   Skeleton,
   Text,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'
 import { NextLinkFromReactRouter } from 'components/NextLink'

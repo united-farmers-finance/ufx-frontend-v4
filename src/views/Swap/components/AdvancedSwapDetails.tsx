@@ -1,5 +1,5 @@
 import { Trade, TradeType, Currency } from '@pancakeswap/sdk'
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from '@pancakeswap/localization'
 import { useUserSlippageTolerance } from 'state/user/hooks'

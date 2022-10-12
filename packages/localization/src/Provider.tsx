@@ -1,5 +1,5 @@
 import { createContext, useCallback, useEffect, useState } from 'react'
-import { Language } from '@pancakeswap/uikit'
+import { Language } from '@unitedfarmers/uikit'
 import { useLastUpdated } from '@pancakeswap/hooks'
 import memoize from 'lodash/memoize'
 import omitBy from 'lodash/omitBy'

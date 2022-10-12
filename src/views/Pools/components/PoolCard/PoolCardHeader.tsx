@@ -1,4 +1,4 @@
-import { CardHeader, Flex, Heading, Text } from '@pancakeswap/uikit'
+import { CardHeader, Flex, Heading, Text } from '@unitedfarmers/uikit'
 import { ReactNode } from 'react'
 import styled from 'styled-components'
 

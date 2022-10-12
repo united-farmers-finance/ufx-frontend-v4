@@ -1,4 +1,4 @@
-import { Flex, Text } from '@pancakeswap/uikit'
+import { Flex, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import isEmpty from 'lodash/isEmpty'
 import { MarketEvent } from 'state/nftMarket/types'

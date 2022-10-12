@@ -1,4 +1,4 @@
-import { Button, Heading, Text } from '@pancakeswap/uikit'
+import { Button, Heading, Text } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useTranslation } from '@pancakeswap/localization'
 import { CompetitionProps } from 'views/TradingCompetition/types'

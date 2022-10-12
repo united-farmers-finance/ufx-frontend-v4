@@ -1,5 +1,5 @@
 import { Currency } from '@pancakeswap/sdk'
-import { Box, Text, AddIcon, CardBody, CardFooter, TooltipText, useTooltip } from '@pancakeswap/uikit'
+import { Box, Text, AddIcon, CardBody, CardFooter, TooltipText, useTooltip } from '@unitedfarmers/uikit'
 import { CommitButton } from 'components/CommitButton'
 import { CurrencySelect } from 'components/CurrencySelect'
 import ConnectWalletButton from 'components/ConnectWalletButton'

@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Button, Checkbox, Flex, Link, Message, Text } from '@pancakeswap/uikit'
+import { Button, Checkbox, Flex, Link, Message, Text } from '@unitedfarmers/uikit'
 import { TokenList } from '@uniswap/token-lists'
 import Card from 'components/Card'
 import { AutoColumn } from 'components/Layout/Column'

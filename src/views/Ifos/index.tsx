@@ -1,4 +1,4 @@
-import { SubMenuItems } from '@pancakeswap/uikit'
+import { SubMenuItems } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { PageMeta } from 'components/Layout/Page'
 import { useRouter } from 'next/router'

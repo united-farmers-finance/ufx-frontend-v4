@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Card, Flex, Box, Spinner } from '@pancakeswap/uikit'
+import { Text, Card, Flex, Box, Spinner } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { Auction, AuctionStatus, Bidder } from 'config/constants/types'
 import { TabToggleGroup, TabToggle } from 'components/TabToggle'

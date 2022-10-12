@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { RocketIcon, Text } from '@pancakeswap/uikit'
+import { RocketIcon, Text } from '@unitedfarmers/uikit'
 import isUndefinedOrNull from '@pancakeswap/utils/isUndefinedOrNull'
 import BigNumber from 'bignumber.js'
 import _toNumber from 'lodash/toNumber'

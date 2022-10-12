@@ -9,7 +9,7 @@ import {
   TeamPlayerIcon,
   TrophyGoldIcon,
   Skeleton,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { useCompetitionCakeRewards, getEasterRewardGroupAchievements } from '../../../helpers'
 import { BoldTd, Td, StyledPrizeTable } from '../../../components/StyledPrizeTable'

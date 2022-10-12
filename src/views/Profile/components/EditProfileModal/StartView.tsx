@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { useWeb3React } from '@pancakeswap/wagmi'
-import { Button, Flex, Text, InjectedModalProps, Message, MessageText } from '@pancakeswap/uikit'
+import { Button, Flex, Text, InjectedModalProps, Message, MessageText } from '@unitedfarmers/uikit'
 import { formatBigNumber } from 'utils/formatBalance'
 import { getPancakeProfileAddress } from 'utils/addressHelpers'
 import { useCake } from 'hooks/useContract'

@@ -8,7 +8,7 @@ import {
   Flex,
   Text,
   TokenPairImage as UITokenPairImage,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { useVaultPoolByKey, useIfoCredit } from 'state/pools/hooks'
 import { useTranslation } from '@pancakeswap/localization'

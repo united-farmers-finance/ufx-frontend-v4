@@ -7,7 +7,7 @@ import {
   UserMenuDivider,
   UserMenuItem,
   Text,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useCallback } from 'react'
 import { ChainId } from '@pancakeswap/sdk'
 import { NextLinkFromReactRouter } from 'components/NextLink'

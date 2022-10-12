@@ -1,5 +1,5 @@
 import { Price, Currency } from '@pancakeswap/sdk'
-import { Flex, Text } from '@pancakeswap/uikit'
+import { Flex, Text } from '@unitedfarmers/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { useTranslation } from '@pancakeswap/localization'
 import { useConfig } from 'views/Predictions/context/ConfigProvider'

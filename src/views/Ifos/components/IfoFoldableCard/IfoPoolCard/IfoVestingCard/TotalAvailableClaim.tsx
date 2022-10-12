@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import { TokenImage } from 'components/TokenImage'
 import { LightGreyCard } from 'components/Card'
 import { useTranslation } from '@pancakeswap/localization'

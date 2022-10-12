@@ -1,4 +1,4 @@
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import { ContextApi } from '@pancakeswap/localization'
 import Link from 'next/link'
 

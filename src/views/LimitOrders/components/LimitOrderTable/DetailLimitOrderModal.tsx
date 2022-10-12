@@ -9,7 +9,7 @@ import {
   Tag,
   Spinner,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import useTheme from 'hooks/useTheme'
 import { memo, useCallback, useState } from 'react'

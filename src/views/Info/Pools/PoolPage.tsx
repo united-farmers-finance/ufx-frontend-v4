@@ -15,7 +15,7 @@ import {
   Text,
   useMatchBreakpoints,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import Page from 'components/Layout/Page'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useState } from 'react'

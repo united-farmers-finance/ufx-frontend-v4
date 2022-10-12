@@ -1,4 +1,4 @@
-import { Box } from '@pancakeswap/uikit'
+import { Box } from '@unitedfarmers/uikit'
 import useTheme from 'hooks/useTheme'
 import PageSection from 'components/PageSection'
 import { useTranslation } from '@pancakeswap/localization'

@@ -1,6 +1,6 @@
 import { useTranslation } from '@pancakeswap/localization'
 import { WalletConnectorNotFoundError, WalletSwitchChainError } from '@pancakeswap/ui-wallets'
-import { connectorLocalStorageKey } from '@pancakeswap/uikit'
+import { connectorLocalStorageKey } from '@unitedfarmers/uikit'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
 import { ConnectorNames } from 'config/wallet'
 import { useCallback } from 'react'

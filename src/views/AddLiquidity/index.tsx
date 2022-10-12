@@ -12,7 +12,7 @@ import {
   TooltipText,
   useTooltip,
   MessageText,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { logError } from 'utils/sentry'
 import { useIsTransactionUnsupported, useIsTransactionWarning } from 'hooks/Trades'
 import { useTranslation } from '@pancakeswap/localization'

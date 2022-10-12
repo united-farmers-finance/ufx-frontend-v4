@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useProfile } from 'state/profile/hooks'
-import { Flex, Box, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Flex, Box, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTradingCompetitionContractEaster } from 'hooks/useContract'
 import { API_PROFILE } from 'config/constants/endpoints'

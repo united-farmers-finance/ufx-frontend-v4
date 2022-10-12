@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js'
 
-import { CardBody, Flex, Text, CardRibbon, Skeleton } from '@pancakeswap/uikit'
+import { CardBody, Flex, Text, CardRibbon, Skeleton } from '@unitedfarmers/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from 'utils/bigNumber'

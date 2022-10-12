@@ -1,6 +1,6 @@
 import { useTranslation } from '@pancakeswap/localization'
 import { ChainId } from '@pancakeswap/sdk'
-import { SubMenuItems } from '@pancakeswap/uikit'
+import { SubMenuItems } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useEffect } from 'react'

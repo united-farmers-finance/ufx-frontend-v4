@@ -20,7 +20,7 @@ import {
   ArrowForwardIcon,
   AutoRenewIcon,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { ChainLogo } from 'components/Logo/ChainLogo'
 import { getBalanceAmount } from 'utils/formatBalance'
 import { LightGreyCard } from 'components/Card'

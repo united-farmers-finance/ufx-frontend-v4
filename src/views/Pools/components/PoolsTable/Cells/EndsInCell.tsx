@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Link, Skeleton, Text, TimerIcon } from '@pancakeswap/uikit'
+import { Flex, Link, Skeleton, Text, TimerIcon } from '@unitedfarmers/uikit'
 import { getBlockExploreLink } from 'utils'
 import { DeserializedPool } from 'state/types'
 import { useCurrentBlock } from 'state/block/hooks'

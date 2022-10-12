@@ -1,4 +1,4 @@
-import { Flex, Link, LinkExternal, Skeleton, Text, TimerIcon } from '@pancakeswap/uikit'
+import { Flex, Link, LinkExternal, Skeleton, Text, TimerIcon } from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import AddToWalletButton, { AddToWalletTextOptions } from 'components/AddToWallet/AddToWalletButton'
 import { bsc } from '@pancakeswap/wagmi/chains'

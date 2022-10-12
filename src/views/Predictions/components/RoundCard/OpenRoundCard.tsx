@@ -8,7 +8,7 @@ import {
   PlayCircleOutlineIcon,
   useToast,
   useTooltip,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import useLocalDispatch from 'contexts/LocalRedux/useLocalDispatch'

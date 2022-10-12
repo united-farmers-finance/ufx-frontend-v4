@@ -1,5 +1,5 @@
 import { useEffect, memo } from 'react'
-import { useModal } from '@pancakeswap/uikit'
+import { useModal } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import DisclaimerModal from 'components/DisclaimerModal'
 import { useUserPredictionAcceptedRisk } from 'state/user/hooks'

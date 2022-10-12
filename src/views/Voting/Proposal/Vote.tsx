@@ -11,7 +11,7 @@ import {
   Text,
   useModal,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Proposal } from 'state/types'
 import { useTranslation } from '@pancakeswap/localization'

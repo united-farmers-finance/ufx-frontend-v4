@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useTranslation } from '@pancakeswap/localization'
 import { useProfile } from 'state/profile/hooks'
-import { Box, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Box, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useTradingCompetitionContractMobox } from 'hooks/useContract'
 import useTheme from 'hooks/useTheme'
 import { PageMeta } from 'components/Layout/Page'

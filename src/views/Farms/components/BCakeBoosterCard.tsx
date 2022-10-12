@@ -11,7 +11,7 @@ import {
   Text,
   useTooltip,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { useTranslation } from '@pancakeswap/localization'

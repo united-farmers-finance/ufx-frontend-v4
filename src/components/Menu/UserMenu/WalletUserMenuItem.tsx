@@ -1,4 +1,4 @@
-import { Flex, UserMenuItem, WarningIcon } from '@pancakeswap/uikit'
+import { Flex, UserMenuItem, WarningIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useBalance } from 'wagmi'

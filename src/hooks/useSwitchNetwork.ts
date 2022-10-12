@@ -1,7 +1,7 @@
 /* eslint-disable consistent-return */
 import { useTranslation } from '@pancakeswap/localization'
 import { ChainId } from '@pancakeswap/sdk'
-import { useToast } from '@pancakeswap/uikit'
+import { useToast } from '@unitedfarmers/uikit'
 import { useCallback, useMemo } from 'react'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
 import { ConnectorNames } from 'config/wallet'

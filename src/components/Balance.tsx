@@ -1,4 +1,4 @@
-import { Text, TextProps, Skeleton } from '@pancakeswap/uikit'
+import { Text, TextProps, Skeleton } from '@unitedfarmers/uikit'
 import { useMemo } from 'react'
 import CountUp from 'react-countup'
 import isUndefinedOrNull from '@pancakeswap/utils/isUndefinedOrNull'

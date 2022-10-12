@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { LinkExternal, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { LinkExternal, Text, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useContext } from 'react'
 import styled, { css, keyframes } from 'styled-components'

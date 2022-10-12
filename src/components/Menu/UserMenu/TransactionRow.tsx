@@ -1,4 +1,4 @@
-import { BlockIcon, CheckmarkCircleIcon, Flex, OpenNewIcon, RefreshIcon } from '@pancakeswap/uikit'
+import { BlockIcon, CheckmarkCircleIcon, Flex, OpenNewIcon, RefreshIcon } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useAppDispatch } from 'state'
 import { useTranslation } from '@pancakeswap/localization'

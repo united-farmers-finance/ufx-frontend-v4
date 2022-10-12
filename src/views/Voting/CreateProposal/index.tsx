@@ -14,7 +14,7 @@ import {
   Text,
   useModal,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
 import times from 'lodash/times'
 import isEmpty from 'lodash/isEmpty'

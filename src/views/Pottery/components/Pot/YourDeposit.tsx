@@ -1,4 +1,4 @@
-import { Box, Text, Skeleton } from '@pancakeswap/uikit'
+import { Box, Text, Skeleton } from '@unitedfarmers/uikit'
 import BigNumber from 'bignumber.js'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useTranslation } from '@pancakeswap/localization'

@@ -10,7 +10,7 @@ import {
   Box,
   Flex,
   ExpandableLabel,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import SubgraphHealthIndicator from 'components/SubgraphHealthIndicator'
 import { useTranslation } from '@pancakeswap/localization'
 import { TeamRanksProps } from '../../../types'

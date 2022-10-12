@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { IconButton, ArrowForwardIcon, ArrowBackIcon, ArrowLastIcon, Flex, Heading, Input } from '@pancakeswap/uikit'
+import { IconButton, ArrowForwardIcon, ArrowBackIcon, ArrowLastIcon, Flex, Heading, Input } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 
 const StyledInput = styled(Input)`

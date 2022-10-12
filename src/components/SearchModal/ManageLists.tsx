@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Button, CheckmarkIcon, CogIcon, Input, LinkExternal, Text, Toggle, useTooltip } from '@pancakeswap/uikit'
+import { Button, CheckmarkIcon, CogIcon, Input, LinkExternal, Text, Toggle, useTooltip } from '@unitedfarmers/uikit'
 import { TokenList, Version } from '@uniswap/token-lists'
 import Card from 'components/Card'
 import { UNSUPPORTED_LIST_URLS } from 'config/constants/lists'

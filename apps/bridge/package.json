@@ -11,7 +11,7 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@pancakeswap/wagmi": "*",
-    "@pancakeswap/uikit": "*",
+    "@unitedfarmers/uikit": "*",
     "@pancakeswap/sdk": "*",
     "next": "^12.3.1",
     "next-axiom": "^0.13.0",

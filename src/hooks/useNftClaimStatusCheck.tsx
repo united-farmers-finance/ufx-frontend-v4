@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useModal } from '@pancakeswap/uikit'
+import { useModal } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { getBunnySpecialXmasContract } from 'utils/contractHelpers'
 import { bscRpcProvider } from 'utils/providers'

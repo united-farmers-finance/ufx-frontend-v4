@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Box, Modal, useToast } from '@pancakeswap/uikit'
+import { Box, Modal, useToast } from '@unitedfarmers/uikit'
 import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
 import { useTranslation } from '@pancakeswap/localization'
 import { SnapshotCommand } from 'state/types'

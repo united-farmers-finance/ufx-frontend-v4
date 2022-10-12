@@ -11,8 +11,8 @@ import {
   Flex,
   Message,
   MessageText,
-} from '@pancakeswap/uikit'
-import InfoTooltip from '@pancakeswap/uikit/src/components/Timeline/InfoTooltip'
+} from '@unitedfarmers/uikit'
+import InfoTooltip from '@unitedfarmers/uikit/src/components/Timeline/InfoTooltip'
 
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@pancakeswap/localization'

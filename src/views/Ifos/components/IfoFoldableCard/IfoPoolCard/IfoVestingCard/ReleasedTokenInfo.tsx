@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import styled from 'styled-components'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import BigNumber from 'bignumber.js'
 import { Ifo } from 'config/constants/types'

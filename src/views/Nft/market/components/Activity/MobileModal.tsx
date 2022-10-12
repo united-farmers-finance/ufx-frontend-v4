@@ -1,4 +1,4 @@
-import { InjectedModalProps, Modal, Flex, Text, Button, BinanceIcon, Box } from '@pancakeswap/uikit'
+import { InjectedModalProps, Modal, Flex, Text, Button, BinanceIcon, Box } from '@unitedfarmers/uikit'
 import { Price, Currency } from '@pancakeswap/sdk'
 import useTheme from 'hooks/useTheme'
 import { Activity, NftToken } from 'state/nftMarket/types'

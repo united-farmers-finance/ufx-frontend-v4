@@ -19,7 +19,7 @@ import {
   TooltipText,
   useTooltip,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3LibraryContext } from '@pancakeswap/wagmi'
 import { BigNumber } from '@ethersproject/bignumber'
 import { callWithEstimateGas } from 'utils/calls'

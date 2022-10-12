@@ -1,4 +1,4 @@
-import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@pancakeswap/uikit'
+import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@unitedfarmers/uikit'
 import { Token } from '@pancakeswap/sdk'
 import { useTranslation } from '@pancakeswap/localization'
 

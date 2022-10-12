@@ -1,4 +1,4 @@
-import { Button, Flex, Heading } from '@pancakeswap/uikit'
+import { Button, Flex, Heading } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { NextLinkFromReactRouter } from 'components/NextLink'

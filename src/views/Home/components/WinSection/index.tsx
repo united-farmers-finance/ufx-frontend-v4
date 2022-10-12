@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, TicketFillIcon, PredictionsIcon } from '@pancakeswap/uikit'
+import { Flex, Text, TicketFillIcon, PredictionsIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import useTheme from 'hooks/useTheme'
 import ColoredWordHeading from '../ColoredWordHeading'

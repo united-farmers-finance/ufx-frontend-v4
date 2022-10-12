@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { useTranslation } from '@pancakeswap/localization'
-import { Flex, Box, Text } from '@pancakeswap/uikit'
+import { Flex, Box, Text } from '@unitedfarmers/uikit'
 import Balance from 'components/Balance'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import BigNumber from 'bignumber.js'

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Flex, useModal, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Button, Heading, Flex, useModal, AutoRenewIcon } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { FetchStatus, LotteryStatus } from 'config/constants/types'
 import { useTranslation } from '@pancakeswap/localization'

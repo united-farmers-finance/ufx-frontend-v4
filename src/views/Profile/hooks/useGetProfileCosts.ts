@@ -5,7 +5,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { multicallv2 } from 'utils/multicall'
 import profileABI from 'config/abi/pancakeProfile.json'
 import { getPancakeProfileAddress } from 'utils/addressHelpers'
-import { useToast } from '@pancakeswap/uikit'
+import { useToast } from '@unitedfarmers/uikit'
 
 const useGetProfileCosts = () => {
   const { t } = useTranslation()

@@ -1,5 +1,5 @@
 import { memo, ReactNode } from 'react'
-import { Message, MessageText, Box, Flex, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Message, MessageText, Box, Flex, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import Trans from 'components/Trans'
 import { VaultPosition } from 'utils/cakePool'

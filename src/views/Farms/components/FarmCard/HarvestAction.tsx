@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Button, Flex, Heading, TooltipText, useToast, useTooltip, useModal } from '@pancakeswap/uikit'
+import { Button, Flex, Heading, TooltipText, useToast, useTooltip, useModal } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'

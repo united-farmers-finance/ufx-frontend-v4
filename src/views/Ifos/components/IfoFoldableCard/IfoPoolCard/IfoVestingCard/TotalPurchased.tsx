@@ -1,4 +1,4 @@
-import { Flex, Box, Text, HelpIcon, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Box, Text, HelpIcon, useTooltip } from '@unitedfarmers/uikit'
 import { LightGreyCard } from 'components/Card'
 import { TokenImage } from 'components/TokenImage'
 import BalanceWithLoading from 'components/Balance'

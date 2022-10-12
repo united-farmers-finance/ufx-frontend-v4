@@ -12,7 +12,7 @@ import {
   Box,
   SkeletonV2,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'

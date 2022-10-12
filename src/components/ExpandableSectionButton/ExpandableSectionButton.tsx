@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ChevronDownIcon, ChevronUpIcon, Text } from '@pancakeswap/uikit'
+import { ChevronDownIcon, ChevronUpIcon, Text } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { useCallback } from 'react'
 

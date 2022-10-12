@@ -15,7 +15,7 @@ import {
   Skeleton,
   Checkbox,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { parseISO, formatDistance } from 'date-fns'
 import { useWeb3React, useSignMessage } from '@pancakeswap/wagmi'
 import { formatUnits } from '@ethersproject/units'

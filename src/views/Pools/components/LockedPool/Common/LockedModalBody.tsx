@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import dynamic from 'next/dynamic'
-import { Button, AutoRenewIcon, Box, Flex, Message, MessageText, Text } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon, Box, Flex, Message, MessageText, Text } from '@unitedfarmers/uikit'
 import _noop from 'lodash/noop'
 import { useTranslation } from '@pancakeswap/localization'
 import { MAX_LOCK_DURATION } from 'config/constants/pools'

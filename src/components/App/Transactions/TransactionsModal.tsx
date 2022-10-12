@@ -1,6 +1,6 @@
 import { useCallback } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { Modal, ModalBody, Text, Button, Flex, InjectedModalProps } from '@pancakeswap/uikit'
+import { Modal, ModalBody, Text, Button, Flex, InjectedModalProps } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import isEmpty from 'lodash/isEmpty'
 import groupBy from 'lodash/groupBy'

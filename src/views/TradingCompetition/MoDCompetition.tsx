@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useTranslation } from '@pancakeswap/localization'
 import { useProfile } from 'state/profile/hooks'
-import { Flex, Box, useMatchBreakpoints } from '@pancakeswap/uikit'
+import { Flex, Box, useMatchBreakpoints } from '@unitedfarmers/uikit'
 import Image from 'next/image'
 import { useTradingCompetitionContractMoD } from 'hooks/useContract'
 import useTheme from 'hooks/useTheme'

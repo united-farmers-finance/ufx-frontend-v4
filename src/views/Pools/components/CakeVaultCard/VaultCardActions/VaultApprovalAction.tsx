@@ -1,4 +1,4 @@
-import { Button, AutoRenewIcon, Skeleton } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon, Skeleton } from '@unitedfarmers/uikit'
 import { VaultKey } from 'state/types'
 import { useTranslation } from '@pancakeswap/localization'
 import { useVaultApprove } from '../../../hooks/useApprove'

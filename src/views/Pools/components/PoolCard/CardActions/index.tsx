@@ -2,7 +2,7 @@ import BigNumber from 'bignumber.js'
 
 import styled from 'styled-components'
 import { BIG_ZERO } from 'utils/bigNumber'
-import { Flex, Text, Box } from '@pancakeswap/uikit'
+import { Flex, Text, Box } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { PoolCategory } from 'config/constants/types'
 import { useProfileRequirement } from 'views/Pools/hooks/useProfileRequirement'

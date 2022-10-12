@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { Price, Currency } from '@pancakeswap/sdk'
-import { Button, Grid, Text, Flex, Box, BinanceIcon, useModal, Skeleton } from '@pancakeswap/uikit'
+import { Button, Grid, Text, Flex, Box, BinanceIcon, useModal, Skeleton } from '@unitedfarmers/uikit'
 import { formatNumber } from 'utils/formatBalance'
 import { ContextApi, useTranslation } from '@pancakeswap/localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'

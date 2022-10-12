@@ -11,7 +11,7 @@ import {
   useTooltip,
   VerifiedIcon,
   VoteIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { memo } from 'react'
 

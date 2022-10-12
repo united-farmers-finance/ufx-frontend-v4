@@ -1,5 +1,5 @@
 import styled, { keyframes } from 'styled-components'
-import { Flex, Button, Link } from '@pancakeswap/uikit'
+import { Flex, Button, Link } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { TicketCard } from '../../svgs'
 

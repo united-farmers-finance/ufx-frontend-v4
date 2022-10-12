@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useTranslation } from '@pancakeswap/localization'
-import { Button, Text, Link, HelpIcon, Message, MessageText } from '@pancakeswap/uikit'
+import { Button, Text, Link, HelpIcon, Message, MessageText } from '@unitedfarmers/uikit'
 import { ChainId } from '@pancakeswap/sdk'
 import { useSwitchNetwork } from 'hooks/useSwitchNetwork'
 

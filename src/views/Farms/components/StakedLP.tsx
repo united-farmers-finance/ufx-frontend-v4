@@ -1,4 +1,4 @@
-import { Flex, Heading, RefreshIcon, useModal } from '@pancakeswap/uikit'
+import { Flex, Heading, RefreshIcon, useModal } from '@unitedfarmers/uikit'
 import { BigNumber } from 'bignumber.js'
 import Balance from 'components/Balance'
 import { useMemo } from 'react'

@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { BigNumber } from '@ethersproject/bignumber'
-import { CheckmarkCircleIcon, CheckmarkCircleFillIcon, Tag, useTooltip } from '@pancakeswap/uikit'
+import { CheckmarkCircleIcon, CheckmarkCircleFillIcon, Tag, useTooltip } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { ethersToBigNumber } from 'utils/bigNumber'
 import { REWARD_RATE } from 'state/predictions/config'

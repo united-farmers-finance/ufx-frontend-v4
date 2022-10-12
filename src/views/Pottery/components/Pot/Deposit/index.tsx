@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { useMemo } from 'react'
 import BigNumber from 'bignumber.js'
-import { Flex, Box, Text, TooltipText, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Box, Text, TooltipText, useTooltip } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { GreyCard } from 'components/Card'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

@@ -15,7 +15,7 @@ import {
   Text,
   TrophyGoldIcon,
   useToast,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { AnyAction, AsyncThunkAction } from '@reduxjs/toolkit'
 import { useEffect } from 'react'
 import styled from 'styled-components'

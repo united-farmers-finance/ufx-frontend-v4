@@ -10,7 +10,7 @@ import {
   UserMenuDivider,
   UserMenuItem,
   UserMenuVariant,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import Trans from 'components/Trans'
 import { useActiveChainId } from 'hooks/useActiveChainId'

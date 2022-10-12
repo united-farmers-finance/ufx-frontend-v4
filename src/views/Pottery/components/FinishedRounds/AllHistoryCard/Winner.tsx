@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, Text, ProfileAvatar, Skeleton } from '@pancakeswap/uikit'
+import { Box, Flex, Text, ProfileAvatar, Skeleton } from '@unitedfarmers/uikit'
 import { useProfileForAddress } from 'state/profile/hooks'
 import truncateHash from '@pancakeswap/utils/truncateHash'
 

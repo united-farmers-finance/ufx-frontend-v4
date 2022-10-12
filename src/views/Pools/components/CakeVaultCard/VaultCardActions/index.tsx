@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
 
 import styled from 'styled-components'
-import { Flex, Text, Box } from '@pancakeswap/uikit'
+import { Flex, Text, Box } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { DeserializedPool } from 'state/types'
 import { BIG_ZERO } from 'utils/bigNumber'

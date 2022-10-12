@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@pancakeswap/uikit'
+import { Flex } from '@unitedfarmers/uikit'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from '@pancakeswap/localization'
 import { OutlineText } from 'views/Pottery/components/TextStyle'

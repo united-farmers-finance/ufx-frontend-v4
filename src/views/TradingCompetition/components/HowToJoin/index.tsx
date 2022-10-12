@@ -1,5 +1,5 @@
 import { useWeb3React } from '@pancakeswap/wagmi'
-import { Flex, Text, Heading } from '@pancakeswap/uikit'
+import { Flex, Text, Heading } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTranslation } from '@pancakeswap/localization'
 import Link from 'next/link'

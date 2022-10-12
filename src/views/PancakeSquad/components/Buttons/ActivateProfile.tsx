@@ -1,5 +1,5 @@
 import { NextLinkFromReactRouter } from 'components/NextLink'
-import { Button } from '@pancakeswap/uikit'
+import { Button } from '@unitedfarmers/uikit'
 import { ContextApi } from '@pancakeswap/localization'
 import { UserStatusEnum } from 'views/PancakeSquad/types'
 

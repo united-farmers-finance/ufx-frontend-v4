@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Button, Text, Link, useMatchBreakpoints, useIsomorphicEffect } from '@pancakeswap/uikit'
+import { ArrowForwardIcon, Button, Text, Link, useMatchBreakpoints, useIsomorphicEffect } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import Image from 'next/image'
 import { memo, useMemo, useRef } from 'react'

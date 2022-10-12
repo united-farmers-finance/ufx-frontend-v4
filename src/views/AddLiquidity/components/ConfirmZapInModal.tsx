@@ -1,7 +1,7 @@
 import React, { useCallback, useMemo } from 'react'
 import { BigNumber } from '@ethersproject/bignumber'
 import { Currency, CurrencyAmount, Fraction, JSBI, Pair, Percent, Token } from '@pancakeswap/sdk'
-import { InjectedModalProps, Text, ArrowDownIcon, Button, useTooltip } from '@pancakeswap/uikit'
+import { InjectedModalProps, Text, ArrowDownIcon, Button, useTooltip } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

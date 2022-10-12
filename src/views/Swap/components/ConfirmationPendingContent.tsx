@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Spinner } from '@pancakeswap/uikit'
+import { Text, Spinner } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { AutoColumn, ColumnCenter } from 'components/Layout/Column'
 import { Trade, Currency, TradeType } from '@pancakeswap/sdk'

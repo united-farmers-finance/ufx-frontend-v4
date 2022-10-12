@@ -10,7 +10,7 @@ import {
   Spinner,
   Text,
   useMatchBreakpoints,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { CurrencyLogo } from 'components/Logo'
 import { TransactionErrorContent, TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
 import { useTranslation } from '@pancakeswap/localization'

@@ -15,7 +15,7 @@ import {
   TabMenu,
   Text,
   WarningIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import clsx from 'clsx'
 import { atom, useAtom } from 'jotai'
 import { FC, lazy, PropsWithChildren, Suspense, useMemo, useState } from 'react'

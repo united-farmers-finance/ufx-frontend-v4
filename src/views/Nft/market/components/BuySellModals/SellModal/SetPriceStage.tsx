@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import { Flex, Grid, Box, Text, Button, BinanceIcon, ErrorIcon, useTooltip, Skeleton } from '@pancakeswap/uikit'
+import { Flex, Grid, Box, Text, Button, BinanceIcon, ErrorIcon, useTooltip, Skeleton } from '@unitedfarmers/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { escapeRegExp } from 'utils'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'

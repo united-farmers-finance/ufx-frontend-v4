@@ -1,5 +1,5 @@
 import { Currency, JSBI } from '@pancakeswap/sdk'
-import { AddIcon, Button, ChevronDownIcon, Text, useModal } from '@pancakeswap/uikit'
+import { AddIcon, Button, ChevronDownIcon, Text, useModal } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useTranslation } from '@pancakeswap/localization'
 import { NextLinkFromReactRouter } from 'components/NextLink'

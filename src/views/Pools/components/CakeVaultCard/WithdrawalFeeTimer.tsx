@@ -1,4 +1,4 @@
-import { Text } from '@pancakeswap/uikit'
+import { Text } from '@unitedfarmers/uikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import { useTranslation } from '@pancakeswap/localization'
 

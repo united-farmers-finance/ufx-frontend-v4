@@ -1,4 +1,4 @@
-import { Box, Flex, FlexProps } from '@pancakeswap/uikit'
+import { Box, Flex, FlexProps } from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { useTranslation } from '@pancakeswap/localization'
 import { CopyButton } from '../../CopyButton'

@@ -1,4 +1,4 @@
-import { Flex, Text, TooltipText, useTooltip } from '@pancakeswap/uikit'
+import { Flex, Text, TooltipText, useTooltip } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { useTranslation } from '@pancakeswap/localization'
 import useWithdrawalFeeTimer from 'views/Pools/hooks/useWithdrawalFeeTimer'

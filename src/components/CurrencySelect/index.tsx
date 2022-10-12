@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ArrowDropDownIcon, Box, Button, Text, useModal, Flex, BoxProps } from '@pancakeswap/uikit'
+import { ArrowDropDownIcon, Box, Button, Text, useModal, Flex, BoxProps } from '@unitedfarmers/uikit'
 import CurrencySearchModal, { CurrencySearchModalProps } from 'components/SearchModal/CurrencySearchModal'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@pancakeswap/localization'

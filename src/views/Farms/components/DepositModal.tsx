@@ -17,7 +17,7 @@ import {
   ErrorIcon,
   Box,
   ModalBody,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import useNativeCurrency from 'hooks/useNativeCurrency'
 import { ChainId } from '@pancakeswap/sdk'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'

@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import styled from 'styled-components'
-import { Breadcrumbs, Heading, Text, Link, Button } from '@pancakeswap/uikit'
+import { Breadcrumbs, Heading, Text, Link, Button } from '@unitedfarmers/uikit'
 import { useTranslation, TranslateFunction } from '@pancakeswap/localization'
 import { ProfileCreationContext } from './contexts/ProfileCreationProvider'
 

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Button, Flex, Heading, LinkExternal } from '@pancakeswap/uikit'
+import { Box, Button, Flex, Heading, LinkExternal } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from '@pancakeswap/localization'

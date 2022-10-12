@@ -12,7 +12,7 @@ import {
   Button,
   useMatchBreakpoints,
   MODAL_SWIPE_TO_CLOSE_VELOCITY,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import styled from 'styled-components'
 import { usePreviousValue } from '@pancakeswap/hooks'
 import { TokenList } from '@uniswap/token-lists'

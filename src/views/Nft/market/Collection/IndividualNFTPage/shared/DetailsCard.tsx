@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, Text, SearchIcon, Link } from '@pancakeswap/uikit'
+import { Box, Flex, Text, SearchIcon, Link } from '@unitedfarmers/uikit'
 import { getBlockExploreLink } from 'utils'
 import { formatNumber } from 'utils/formatBalance'
 import uriToHttp from '@pancakeswap/utils/uriToHttp'

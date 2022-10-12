@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { AutoRenewIcon, Button, Flex, PresentWonIcon, Text, useToast } from '@pancakeswap/uikit'
+import { AutoRenewIcon, Button, Flex, PresentWonIcon, Text, useToast } from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import Balance from 'components/Balance'
 import { ToastDescriptionWithTx } from 'components/Toast'

@@ -1,5 +1,5 @@
 import { Trade, TradeType, CurrencyAmount, Currency } from '@pancakeswap/sdk'
-import { Button, Text, ErrorIcon, ArrowDownIcon } from '@pancakeswap/uikit'
+import { Button, Text, ErrorIcon, ArrowDownIcon } from '@unitedfarmers/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from '@pancakeswap/localization'
 import { basisPointsToPercent } from 'utils/exchange'

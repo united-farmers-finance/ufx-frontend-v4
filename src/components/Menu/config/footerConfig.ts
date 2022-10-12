@@ -1,4 +1,4 @@
-import { FooterLinkType } from '@pancakeswap/uikit'
+import { FooterLinkType } from '@unitedfarmers/uikit'
 import { ContextApi } from '@pancakeswap/localization'
 
 export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [

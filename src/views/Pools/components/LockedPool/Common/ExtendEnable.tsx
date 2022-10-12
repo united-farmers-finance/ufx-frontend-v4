@@ -1,4 +1,4 @@
-import { Button, AutoRenewIcon } from '@pancakeswap/uikit'
+import { Button, AutoRenewIcon } from '@unitedfarmers/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { useExtendEnable } from '../hooks/useExtendEnable'
 

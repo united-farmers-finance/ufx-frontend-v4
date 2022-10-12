@@ -2,7 +2,7 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { MaxUint256 } from '@ethersproject/constants'
 import { ContextApi } from '@pancakeswap/localization'
-import { Button, useModal, useToast } from '@pancakeswap/uikit'
+import { Button, useModal, useToast } from '@unitedfarmers/uikit'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import useApproveConfirmTransaction from 'hooks/useApproveConfirmTransaction'
 import { useCallWithMarketGasPrice } from 'hooks/useCallWithMarketGasPrice'

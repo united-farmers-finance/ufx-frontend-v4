@@ -8,7 +8,7 @@ import {
   Heading,
   Button,
   ChevronUpIcon,
-} from '@pancakeswap/uikit'
+} from '@unitedfarmers/uikit'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import orderBy from 'lodash/orderBy'
 import { useTranslation } from '@pancakeswap/localization'

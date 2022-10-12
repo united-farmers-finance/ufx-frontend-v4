@@ -1,6 +1,6 @@
 import { useEffect, Fragment, useState } from 'react'
 import styled from 'styled-components'
-import { Flex } from '@pancakeswap/uikit'
+import { Flex } from '@unitedfarmers/uikit'
 import { PoolIds } from 'config/constants/types'
 import { useTranslation } from '@pancakeswap/localization'
 import { PublicIfoData } from 'views/Ifos/types'
